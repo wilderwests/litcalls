@@ -31,7 +31,7 @@ jobs:
       - name: Run CFP Scraper
         run: python scripts/scrape_cfps.py
 
-            - name: Commit updated data
+      - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
