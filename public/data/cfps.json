@@ -1,0 +1,33 @@
+{
+  "last_updated": "2026-03-15T00:00:00Z",
+  "total": 1,
+  "topics": {
+    "fantastic": "The Fantastic / Gothic / Speculative",
+    "ecocriticism": "Ecocriticism / Environmental Humanities",
+    "human-animal": "Human-Animal Studies / Posthumanism",
+    "postcolonial": "Postcolonial / World Literature",
+    "gender": "Gender / Feminist / Queer Studies",
+    "digital": "Digital Humanities / Media",
+    "medieval-early": "Medieval / Early Modern",
+    "modern-contemporary": "Modern / Contemporary Literature",
+    "theory": "Literary Theory / Comparative",
+    "hispanic": "Hispanic / Latin American Studies",
+    "english": "English / Anglophone Literature",
+    "other-languages": "French / German / Italian / Other"
+  },
+  "cfps": [
+    {
+      "id": "placeholder001",
+      "title": "Awaiting first automated scrape — go to Actions tab and run the workflow",
+      "description": "This is placeholder data. The GitHub Action scraper runs daily at 07:00 UTC and will populate this page with real CFPs scraped from WikiCFP, H-Net, Penn CFP, cfplist.com, Dialnet, OJS portals, and publisher sites. You can also trigger it manually: go to your repo's Actions tab → 'Scrape CFPs & Deploy' → 'Run workflow'.",
+      "venue": "System",
+      "deadline": null,
+      "url": null,
+      "topics": ["fantastic", "ecocriticism", "human-animal"],
+      "pubType": "unknown",
+      "source": "System",
+      "impactTier": "unknown",
+      "impactQuartile": null
+    }
+  ]
+}

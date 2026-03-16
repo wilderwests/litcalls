@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Litcalls — Find Your Next CFP</title>
+  <meta name="description" content="Massive aggregator of open Calls for Papers for literary publication: journal articles, book chapters, edited volumes, and monograph proposals worldwide.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=JetBrains+Mono:wght@400;500;600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f7f4ee;
+      --surface: #fffdf7;
+      --ink: #1c1917;
+      --text: #44403c;
+      --muted: #78716c;
+      --border: #d6d3cd;
+      --accent: #991b1b;
+      --accent2: #065f46;
+      --accent3: #5b21b6;
+      --high: #065f46;
+      --medium: #92400e;
+      --low: #6b21a8;
+      --unknown: #57534e;
+      --tag-bg: #f5f0e6;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--bg); color: var(--ink); }
+
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background:
+        radial-gradient(ellipse at 20% 0%, rgba(153,27,27,0.03) 0%, transparent 50%),
+        radial-gradient(ellipse at 80% 100%, rgba(91,33,182,0.03) 0%, transparent 50%);
+      pointer-events: none;
+    }
+
+    /* ═══ HEADER ═══ */
+    .hdr {
+      padding: 40px 48px 28px;
+      border-bottom: 3px double var(--ink);
+    }
+    .hdr-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    .hdr h1 {
+      font: 700 48px/1 'Crimson Pro', serif;
+      letter-spacing: -0.03em;
+    }
+    .hdr h1 span { color: var(--accent); font-style: italic; font-weight: 500; }
+    .hdr-meta {
+      font: 500 10px/1.5 'JetBrains Mono', monospace;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      text-align: right;
+    }
+    .hdr-sub {
+      margin-top: 12px;
+      padding-top: 10px;
+      border-top: 1px solid var(--border);
+      font: italic 400 15px/1.5 'Libre Baskerville', serif;
+      color: var(--text);
+    }
+
+    /* ═══ TABS ═══ */
+    .tabs {
+      display: flex;
+      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+      padding: 0 48px;
+    }
+    .tab {
+      padding: 14px 28px;
+      font: 600 13px 'Crimson Pro', serif;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      cursor: pointer;
+      border: none;
+      background: none;
+      color: var(--muted);
+      border-bottom: 2.5px solid transparent;
+      transition: all 0.2s;
+    }
+    .tab.on {
+      color: var(--ink);
+      border-bottom-color: var(--accent);
+    }
+    .tab:hover { color: var(--ink); }
+    .tab .badge {
+      font: 600 10px 'JetBrains Mono', monospace;
+      background: var(--tag-bg);
+      padding: 2px 7px;
+      margin-left: 6px;
+      border-radius: 2px;
+    }
+
+    /* ═══ CONTROLS ═══ */
+    .ctrl {
+      padding: 16px 48px;
+      background: linear-gradient(180deg, var(--surface) 0%, var(--bg) 100%);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+    .ctrl-label {
+      font: 600 10px 'JetBrains Mono', monospace;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-right: 4px;
+    }
+    .pill-group { display: flex; flex-wrap: wrap; gap: 5px; }
+    .pill {
+      padding: 5px 14px;
+      font: 500 11px 'JetBrains Mono', monospace;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.15s;
+      letter-spacing: 0.02em;
+    }
+    .pill.on {
+      background: var(--ink);
+      color: var(--bg);
+      border-color: var(--ink);
+    }
+    .pill:hover:not(.on) { border-color: var(--ink); color: var(--ink); }
+    .ctrl-sep {
+      width: 1px;
+      height: 24px;
+      background: var(--border);
+      margin: 0 8px;
+    }
+    .search-box {
+      padding: 6px 14px;
+      font: 400 12px 'JetBrains Mono', monospace;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--ink);
+      outline: none;
+      width: 220px;
+      transition: border-color 0.2s;
+    }
+    .search-box:focus { border-color: var(--ink); }
+    .search-box::placeholder { color: var(--muted); }
+
+    /* ═══ MAIN GRID ═══ */
+    .main { padding: 28px 48px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+      gap: 16px;
+    }
+
+    /* ═══ CFP CARD ═══ */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      padding: 20px;
+      transition: all 0.2s;
+      animation: appear 0.4s ease both;
+    }
+    .card:hover {
+      border-color: var(--ink);
+      box-shadow: 3px 3px 0 rgba(0,0,0,0.06);
+      transform: translate(-1px, -1px);
+    }
+    @keyframes appear {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .card-badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
+    .b-tier {
+      font: 600 9px 'JetBrains Mono', monospace;
+      color: #fff;
+      padding: 3px 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .b-type {
+      font: 500 9px 'JetBrains Mono', monospace;
+      color: var(--accent);
+      padding: 3px 8px;
+      border: 1px solid currentColor;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .b-topic {
+      font: 400 9px 'JetBrains Mono', monospace;
+      color: var(--muted);
+      padding: 3px 8px;
+      background: var(--tag-bg);
+      letter-spacing: 0.04em;
+    }
+    .card h3 {
+      font: 500 17px/1.35 'Crimson Pro', serif;
+      margin-bottom: 7px;
+    }
+    .card h3 a {
+      color: inherit;
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.2s;
+    }
+    .card h3 a:hover { border-bottom-color: var(--accent); }
+    .card .desc {
+      font: 400 13px/1.6 'Libre Baskerville', serif;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+    .card-foot {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid var(--border);
+      padding-top: 10px;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .card-foot span {
+      font: 400 10px 'JetBrains Mono', monospace;
+      color: var(--muted);
+    }
+    .card-foot .dl { font-weight: 600; }
+    .card-foot a {
+      font: 500 10px 'JetBrains Mono', monospace;
+      color: var(--ink);
+      text-decoration: none;
+      border-bottom: 1px solid var(--ink);
+    }
+    .card-foot a:hover { color: var(--accent); border-color: var(--accent); }
+
+    /* ═══ DIRECTORY SECTION ═══ */
+    .directory { padding: 28px 48px; display: none; }
+    .directory.show { display: block; }
+    .dir-intro {
+      font: 400 14px/1.7 'Libre Baskerville', serif;
+      color: var(--text);
+      max-width: 720px;
+      margin-bottom: 28px;
+    }
+    .dir-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 16px;
+    }
+    .dir-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      padding: 20px;
+      transition: border-color 0.2s;
+    }
+    .dir-card:hover { border-color: var(--ink); }
+    .dir-card h3 {
+      font: 600 15px 'Crimson Pro', serif;
+      margin-bottom: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--accent);
+    }
+    .dir-card .dir-type {
+      font: 500 9px 'JetBrains Mono', monospace;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 8px;
+    }
+    .dir-card p {
+      font: 400 13px/1.6 'Libre Baskerville', serif;
+      color: var(--text);
+      margin-bottom: 10px;
+    }
+    .dir-card a {
+      font: 500 11px 'JetBrains Mono', monospace;
+      color: var(--ink);
+      text-decoration: none;
+      border-bottom: 1px solid var(--ink);
+      transition: color 0.2s;
+    }
+    .dir-card a:hover { color: var(--accent); border-color: var(--accent); }
+    .dir-section-title {
+      font: 700 20px 'Crimson Pro', serif;
+      margin: 32px 0 16px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+    .dir-section-title:first-of-type { margin-top: 0; }
+
+    /* ═══ EMPTY / LOADING ═══ */
+    .msg {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 56px 20px;
+    }
+    .msg p { font: italic 17px 'Crimson Pro', serif; color: var(--muted); }
+    .msg .sm {
+      font: 400 12px 'JetBrains Mono', monospace;
+      font-style: normal;
+      margin-top: 10px;
+      color: var(--muted);
+    }
+    .spinner {
+      width: 20px; height: 20px;
+      border: 2px solid var(--border);
+      border-top-color: var(--ink);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      margin: 0 auto 12px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ═══ STATS BAR ═══ */
+    .stats {
+      padding: 10px 48px;
+      font: 400 10px 'JetBrains Mono', monospace;
+      color: var(--muted);
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    /* ═══ FOOTER ═══ */
+    .ftr {
+      padding: 20px 48px;
+      border-top: 3px double var(--ink);
+      font: 400 10px 'JetBrains Mono', monospace;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    /* ═══ NEWSLETTER ═══ */
+    .newsletter {
+      padding: 40px 48px;
+      background: var(--ink);
+      color: var(--bg);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 24px;
+    }
+    .nl-text h2 {
+      font: 700 26px 'Crimson Pro', serif;
+      margin-bottom: 5px;
+    }
+    .nl-text h2 span { color: #f87171; }
+    .nl-text p {
+      font: 400 13px/1.5 'Libre Baskerville', serif;
+      color: #a8a29e;
+      max-width: 460px;
+    }
+    .nl-form { display: flex; gap: 0; }
+    .nl-form input[type="email"] {
+      padding: 12px 18px;
+      font: 400 13px 'JetBrains Mono', monospace;
+      border: 1.5px solid #57534e;
+      border-right: none;
+      background: #292524;
+      color: #fafaf9;
+      outline: none;
+      width: 260px;
+    }
+    .nl-form input[type="email"]::placeholder { color: #78716c; }
+    .nl-form input[type="email"]:focus { border-color: #f87171; }
+    .nl-form button {
+      padding: 12px 24px;
+      font: 600 12px 'JetBrains Mono', monospace;
+      background: #991b1b;
+      color: #fafaf9;
+      border: 1.5px solid #991b1b;
+      cursor: pointer;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      transition: background 0.2s;
+    }
+    .nl-form button:hover { background: #b91c1c; }
+    .nl-note {
+      font: 400 10px 'JetBrains Mono', monospace;
+      color: #57534e;
+      margin-top: 8px;
+    }
+
+    /* ═══ RESPONSIVE ═══ */
+    @media (max-width: 600px) {
+      .hdr, .ctrl, .main, .directory, .ftr, .tabs, .stats, .newsletter { padding-left: 16px; padding-right: 16px; }
+      .hdr h1 { font-size: 30px; }
+      .grid, .dir-grid { grid-template-columns: 1fr; }
+      .search-box { width: 100%; }
+      .ctrl { gap: 8px; }
+      .ctrl-sep { display: none; }
+      .tabs { overflow-x: auto; padding: 0 16px; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="hdr">
+  <div class="hdr-top">
+    <h1><span>Litcalls</span>, find your next CFP</h1>
+    <div class="hdr-meta">
+      Literary Publication CFPs Worldwide<br>
+      <span id="today"></span>
+    </div>
+  </div>
+  <div class="hdr-sub">
+    A worldwide aggregator of open calls for journal articles, book chapters, edited volumes &amp; monograph proposals across all areas of literary studies — updated daily, classified by impact.
+  </div>
+</div>
+
+<div class="tabs">
+  <button class="tab on" data-tab="cfps">Scraped CFPs <span class="badge" id="cfp-count">0</span></button>
+  <button class="tab" data-tab="directory">Curated Directory</button>
+</div>
+
+<!-- ═══ CFP TAB ═══ -->
+<div id="panel-cfps">
+  <div class="ctrl">
+    <span class="ctrl-label">Topic:</span>
+    <div class="pill-group" id="topic-pills"></div>
+    <div class="ctrl-sep"></div>
+    <span class="ctrl-label">Type:</span>
+    <div class="pill-group" id="type-pills">
+      <button class="pill on" data-val="all">All</button>
+      <button class="pill" data-val="journal">Journal</button>
+      <button class="pill" data-val="chapter">Chapter</button>
+      <button class="pill" data-val="monograph">Monograph</button>
+    </div>
+    <div class="ctrl-sep"></div>
+    <span class="ctrl-label">Impact:</span>
+    <div class="pill-group" id="tier-pills">
+      <button class="pill on" data-val="all">All</button>
+      <button class="pill" data-val="high">Q1</button>
+      <button class="pill" data-val="medium">Q2</button>
+      <button class="pill" data-val="low">Q3-Q4</button>
+      <button class="pill" data-val="unknown">Unranked</button>
+    </div>
+    <div class="ctrl-sep"></div>
+    <input class="search-box" type="text" id="search" placeholder="Search titles…">
+  </div>
+  <div class="stats" id="stats"></div>
+  <div class="main"><div class="grid" id="grid"></div></div>
+</div>
+
+<!-- ═══ DIRECTORY TAB ═══ -->
+<div id="panel-directory" class="directory">
+  <div class="dir-intro">
+    Curated directory of the most reliable sources for finding literary publication CFPs. These are websites, mailing lists, and feeds you can check regularly — many update daily.
+  </div>
+
+  <div class="dir-section-title">CFP Aggregators & Databases</div>
+  <div class="dir-grid" id="dir-aggregators"></div>
+
+  <div class="dir-section-title">Mailing Lists & Networks</div>
+  <div class="dir-grid" id="dir-lists"></div>
+
+  <div class="dir-section-title">Spanish & Hispanic Sources</div>
+  <div class="dir-grid" id="dir-spanish"></div>
+
+  <div class="dir-section-title">Publisher Proposal Pages</div>
+  <div class="dir-grid" id="dir-publishers"></div>
+
+  <div class="dir-section-title">Journal Alert Services</div>
+  <div class="dir-grid" id="dir-alerts"></div>
+</div>
+
+<div class="newsletter">
+  <div class="nl-text">
+    <h2><span>Litcalls</span> Weekly Digest</h2>
+    <p>Get new publication CFPs delivered to your inbox every Monday. No spam, unsubscribe anytime.</p>
+  </div>
+  <div>
+    <form class="nl-form" action="https://buttondown.com/api/emails/embed-subscribe/TUUSUARIO" method="post" target="popupwindow">
+      <input type="email" name="email" placeholder="your@email.com" required>
+      <button type="submit">Subscribe</button>
+    </form>
+    <div class="nl-note">Powered by Buttondown · Free · No tracking</div>
+  </div>
+</div>
+
+<div class="ftr">
+  <span>Sources: WikiCFP · H-Net · Penn CFP · cfplist · Dialnet · OJS portals · Publisher sites</span>
+  <span id="last-updated"></span>
+</div>
+
+<script>
+// ═══════════════════════════════════════════
+// CURATED DIRECTORY DATA
+// ═══════════════════════════════════════════
+
+const DIRECTORY = {
+  aggregators: [
+    { name: "Penn CFP (UPenn)", type: "CFP aggregator", desc: "One of the oldest and most comprehensive academic CFP lists. Covers literature, culture, and humanities worldwide. Updated constantly by submissions.", url: "https://call-for-papers.sas.upenn.edu/" },
+    { name: "WikiCFP", type: "CFP database", desc: "Large searchable database of CFPs across all academic disciplines. Filter by category 'Literature' and 'Language'. Mix of conferences and publication calls.", url: "http://www.wikicfp.com/cfp/call?conference=literature" },
+    { name: "cfplist.com", type: "CFP aggregator", desc: "Curated CFP listings organized by discipline. Check Literature, Cultural Studies, and Environment categories.", url: "https://www.cfplist.com/" },
+    { name: "Academic Jobs Wiki — CFPs", type: "Wiki", desc: "Community-maintained wiki with CFP listings for humanities. Strongest for English and American literature.", url: "https://academicjobs.fandom.com/wiki/Call_for_Papers" },
+    { name: "CFP — Calls for Papers (X/Twitter)", type: "Social media", desc: "Search X/Twitter for #CFP #CallForPapers #literarystudies. Many editors and series post CFPs here first.", url: "https://twitter.com/search?q=%23CFP%20literature&f=live" },
+    { name: "Humanities Commons", type: "Academic network", desc: "Open-access academic network. Groups and discussions often share CFPs for journals and edited volumes.", url: "https://hcommons.org/" },
+  ],
+  lists: [
+    { name: "H-Net Networks", type: "Mailing lists", desc: "The most important network for humanities CFPs. Subscribe to H-Literary, H-Environment, H-Animal, H-Gothic, H-Spain, H-Women, H-Postcolonial, etc.", url: "https://networks.h-net.org/" },
+    { name: "VICTORIA (listserv)", type: "Mailing list", desc: "Major list for Victorian studies. Frequent CFPs for special issues and edited volumes.", url: "https://lists.indiana.edu/sympa/info/victoria" },
+    { name: "HUMANIST (listserv)", type: "Mailing list", desc: "Long-running DH list. CFPs for digital humanities publications.", url: "https://dhhumanist.org/" },
+    { name: "C19 (19th-century scholars)", type: "Mailing list", desc: "CFPs for Americanist 19th-century literary studies.", url: "https://www.c19society.org/" },
+    { name: "FICCIÓN (Red ILCYL)", type: "Lista de correo", desc: "Red de investigadores en literatura y cultura en lenguas ibéricas. CFPs de revistas y volúmenes en español.", url: "https://www.rediris.es/list/info/ficcion.html" },
+    { name: "ASLE (Assoc. for Study of Lit. & Environment)", type: "Professional organization", desc: "Key organization for ecocriticism. Their newsletter and listserv share CFPs for environmental humanities journals.", url: "https://www.asle.org/" },
+    { name: "IAFA (Intl. Assoc. for the Fantastic in the Arts)", type: "Professional organization", desc: "Central hub for fantastic literature studies. Newsletter shares CFPs for JFA and other journals in the field.", url: "https://www.iafa.org/" },
+  ],
+  spanish: [
+    { name: "Dialnet", type: "Base de datos", desc: "El mayor portal de contenido científico en español. Busca convocatorias de revistas de filología y literatura. También indexa revistas con secciones monográficas abiertas.", url: "https://dialnet.unirioja.es/" },
+    { name: "Brumal — Revista de Investigación sobre lo Fantástico", type: "Revista (UAB)", desc: "Revista especializada en lo fantástico. Publica convocatorias para números monográficos. Open access. SJR indexed.", url: "https://revistes.uab.cat/brumal/" },
+    { name: "Tropelías (Unizar)", type: "Revista", desc: "Revista de teoría de la literatura y literatura comparada. Convocatorias regulares para dossieres temáticos.", url: "https://revistas.unizar.es/index.php/tropelias" },
+    { name: "Signa (UNED)", type: "Revista", desc: "Revista de la Asociación Española de Semiótica. Publica números con secciones monográficas abiertas a propuestas.", url: "https://revistas.uned.es/index.php/signa" },
+    { name: "Tonos Digital (UM)", type: "Revista", desc: "Revista electrónica de estudios filológicos. Universidad de Murcia. Open access.", url: "https://www.um.es/tonosdigital/" },
+    { name: "Actio Nova (UAM)", type: "Revista", desc: "Revista de Teoría de la Literatura y Literatura Comparada. Universidad Autónoma de Madrid.", url: "https://revistas.uam.es/actionova" },
+    { name: "Dicenda (UCM)", type: "Revista", desc: "Estudios de Lengua y Literatura Españolas. Universidad Complutense.", url: "https://revistas.ucm.es/index.php/DICE" },
+    { name: "1616 — Anuario de Literatura Comparada", type: "Revista (USAL)", desc: "Anuario de la Sociedad Española de Literatura General y Comparada.", url: "https://revistas.usal.es/index.php/1616_Anuario_LiterComp" },
+    { name: "SELGYC", type: "Sociedad académica", desc: "Sociedad Española de Literatura General y Comparada. Su boletín y web comparten CFPs relevantes.", url: "https://selgyc.com/" },
+    { name: "ALCE (Red de Lit. Comparada en Español)", type: "Red académica", desc: "Red que conecta investigadores en literatura comparada en español. Comparten convocatorias.", url: "https://www.cervantesvirtual.com/" },
+    { name: "Ecozona", type: "Revista", desc: "European Journal of Literature, Culture and Environment. Open access. Basada en la Universidad de Alcalá. Clave para ecocrítica.", url: "https://ecozona.eu/" },
+  ],
+  publishers: [
+    { name: "Routledge — Literature Proposals", type: "Publisher (Taylor & Francis)", desc: "Major publisher for edited volumes in literary studies. Check their Literature page for open calls and series accepting proposals.", url: "https://www.routledge.com/literature" },
+    { name: "Palgrave Macmillan — Literary Studies", type: "Publisher (Springer Nature)", desc: "Strong list in Gothic, postcolonial, animal studies, ecocriticism. Multiple open series accepting chapter/volume proposals.", url: "https://www.palgrave.com/gp/literary-studies" },
+    { name: "Bloomsbury Academic — Literary Studies", type: "Publisher", desc: "Growing list. Publishes in Gothic, environmental humanities, and world literatures. Check for open series.", url: "https://www.bloomsbury.com/uk/academic/literary-studies/" },
+    { name: "Edinburgh University Press", type: "Publisher", desc: "Strong in Gothic, Scottish, and ecocritical studies. Several active book series.", url: "https://edinburghuniversitypress.com/series" },
+    { name: "Peter Lang", type: "Publisher", desc: "Prolific publisher of edited volumes in comparative and European literature. Often seeks chapter proposals.", url: "https://www.peterlang.com/" },
+    { name: "De Gruyter", type: "Publisher", desc: "Open access and traditional. Growing literary studies list. Check Companions and Handbooks series.", url: "https://www.degruyter.com/" },
+    { name: "Cambridge Scholars Publishing", type: "Publisher", desc: "Very open to edited volume proposals across literary studies. Lower barrier to entry.", url: "https://www.cambridgescholars.com/" },
+    { name: "Iberoamericana / Vervuert", type: "Editorial", desc: "Principal editorial académica para estudios hispánicos en Europa. Publica volúmenes editados y monografías.", url: "https://www.iberoamericana-vervuert.es/" },
+    { name: "Cátedra / Anaya", type: "Editorial", desc: "Ediciones Cátedra. Colecciones de crítica y ensayo literario. Algunas series aceptan propuestas.", url: "https://www.catedra.com/" },
+    { name: "Comares", type: "Editorial", desc: "Editorial con fuerte presencia en humanidades. Colección de estudios literarios.", url: "https://www.comares.com/" },
+  ],
+  alerts: [
+    { name: "Google Scholar Alerts", type: "Alert service", desc: "Set up alerts for 'call for papers' + your keywords. Catches CFPs posted on academic pages, repositories, and journals.", url: "https://scholar.google.com/scholar_alerts" },
+    { name: "JournalTOCs", type: "TOC alert service", desc: "Get table of contents alerts from thousands of journals. Useful to spot special issue CFPs published inside journal issues.", url: "http://www.journaltocs.ac.uk/" },
+    { name: "DOAJ (Directory of Open Access Journals)", type: "Directory", desc: "Search for OA journals in your area. Many OA literary journals post CFPs on their sites.", url: "https://doaj.org/" },
+    { name: "ERIH PLUS", type: "Index", desc: "European Reference Index for the Humanities. Use it to verify journal quality and find indexed venues publishing CFPs.", url: "https://kanalregister.hkdir.no/publiseringskanaler/erihplus/" },
+    { name: "SJR / Scopus — Humanities", type: "Ranking", desc: "Check Scimago Journal Rankings for Arts & Humanities to identify high-impact venues, then visit their sites for open calls.", url: "https://www.scimagojr.com/journalrank.php?area=1200" },
+    { name: "Latindex", type: "Index", desc: "Sistema de información sobre revistas de investigación de América Latina, España y Portugal. Verifica calidad de revistas en español.", url: "https://www.latindex.org/" },
+  ],
+};
+
+// ═══════════════════════════════════════════
+// STATE
+// ═══════════════════════════════════════════
+
+let allCfps = [];
+let topicMap = {};
+let activeTopics = new Set();
+let activePubType = "all";
+let activeTier = "all";
+let searchQuery = "";
+let activeTab = "cfps";
+
+const TIER_COLORS = { high: "var(--high)", medium: "var(--medium)", low: "var(--low)", unknown: "var(--unknown)" };
+const TYPE_LABELS = { journal: "Journal Article", chapter: "Book Chapter", monograph: "Monograph", unknown: "Publication" };
+
+// ═══════════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════════
+
+document.getElementById("today").textContent =
+  new Date().toLocaleDateString("en-GB", { weekday: "long", year: "numeric", month: "long", day: "numeric" });
+
+// Tabs
+document.querySelectorAll(".tab").forEach(t => {
+  t.addEventListener("click", () => {
+    document.querySelectorAll(".tab").forEach(x => x.classList.remove("on"));
+    t.classList.add("on");
+    activeTab = t.dataset.tab;
+    document.getElementById("panel-cfps").style.display = activeTab === "cfps" ? "" : "none";
+    document.getElementById("panel-directory").classList.toggle("show", activeTab === "directory");
+  });
+});
+
+// Search
+document.getElementById("search").addEventListener("input", e => {
+  searchQuery = e.target.value.toLowerCase();
+  render();
+});
+
+// Type pills
+document.querySelectorAll("#type-pills .pill").forEach(p => {
+  p.addEventListener("click", () => {
+    document.querySelectorAll("#type-pills .pill").forEach(x => x.classList.remove("on"));
+    p.classList.add("on");
+    activePubType = p.dataset.val;
+    render();
+  });
+});
+
+// Tier pills
+document.querySelectorAll("#tier-pills .pill").forEach(p => {
+  p.addEventListener("click", () => {
+    document.querySelectorAll("#tier-pills .pill").forEach(x => x.classList.remove("on"));
+    p.classList.add("on");
+    activeTier = p.dataset.val;
+    render();
+  });
+});
+
+// ═══════════════════════════════════════════
+// LOAD DATA
+// ═══════════════════════════════════════════
+
+async function loadData() {
+  showMsg("loading");
+  try {
+    const r = await fetch("data/cfps.json");
+    if (!r.ok) throw new Error(r.status);
+    const data = await r.json();
+    allCfps = data.cfps || [];
+    topicMap = data.topics || {};
+
+    document.getElementById("last-updated").textContent =
+      data.last_updated ? "Last scraped: " + new Date(data.last_updated).toLocaleDateString("en-GB") : "";
+    document.getElementById("cfp-count").textContent = allCfps.length;
+
+    // Build topic pills dynamically
+    buildTopicPills();
+    render();
+  } catch (e) {
+    showMsg("empty", "No data yet — trigger the scraper from GitHub Actions, or browse the Curated Directory tab.");
+  }
+  renderDirectory();
+}
+
+function buildTopicPills() {
+  const container = document.getElementById("topic-pills");
+  container.innerHTML = "";
+
+  // "All" pill
+  const allPill = document.createElement("button");
+  allPill.className = "pill on";
+  allPill.dataset.val = "all";
+  allPill.textContent = "All";
+  allPill.addEventListener("click", () => {
+    activeTopics.clear();
+    document.querySelectorAll("#topic-pills .pill").forEach(p => p.classList.remove("on"));
+    allPill.classList.add("on");
+    render();
+  });
+  container.appendChild(allPill);
+
+  // Collect topics actually present
+  const present = new Set();
+  allCfps.forEach(c => (c.topics || []).forEach(t => present.add(t)));
+
+  // Sort by count
+  const sorted = [...present].sort((a, b) => {
+    const ca = allCfps.filter(c => (c.topics || []).includes(a)).length;
+    const cb = allCfps.filter(c => (c.topics || []).includes(b)).length;
+    return cb - ca;
+  });
+
+  sorted.forEach(tid => {
+    const label = topicMap[tid] || tid;
+    const short = label.split("/")[0].split("(")[0].trim();
+    const pill = document.createElement("button");
+    pill.className = "pill";
+    pill.dataset.val = tid;
+    pill.textContent = short;
+    pill.addEventListener("click", () => {
+      allPill.classList.remove("on");
+      if (activeTopics.has(tid)) {
+        activeTopics.delete(tid);
+        pill.classList.remove("on");
+        if (activeTopics.size === 0) allPill.classList.add("on");
+      } else {
+        activeTopics.add(tid);
+        pill.classList.add("on");
+      }
+      render();
+    });
+    container.appendChild(pill);
+  });
+}
+
+// ═══════════════════════════════════════════
+// RENDER CFPs
+// ═══════════════════════════════════════════
+
+function render() {
+  const grid = document.getElementById("grid");
+  grid.innerHTML = "";
+
+  const filtered = allCfps.filter(c => {
+    if (activeTopics.size > 0 && !(c.topics || []).some(t => activeTopics.has(t))) return false;
+    if (activePubType !== "all" && c.pubType !== activePubType) return false;
+    if (activeTier !== "all" && c.impactTier !== activeTier) return false;
+    if (searchQuery && !c.title.toLowerCase().includes(searchQuery) && !(c.description || "").toLowerCase().includes(searchQuery)) return false;
+    return true;
+  });
+
+  // Stats
+  document.getElementById("stats").innerHTML =
+    `<span>Showing ${filtered.length} of ${allCfps.length} CFPs</span>` +
+    `<span>Journal: ${filtered.filter(c=>c.pubType==="journal").length}</span>` +
+    `<span>Chapter: ${filtered.filter(c=>c.pubType==="chapter").length}</span>` +
+    `<span>Monograph: ${filtered.filter(c=>c.pubType==="monograph").length}</span>`;
+
+  if (filtered.length === 0) {
+    showMsg("empty", "No CFPs match the current filters.");
+    return;
+  }
+
+  filtered.forEach((c, i) => {
+    const card = document.createElement("div");
+    card.className = "card";
+    card.style.animationDelay = `${Math.min(i, 20) * 50}ms`;
+
+    const tierColor = TIER_COLORS[c.impactTier] || TIER_COLORS.unknown;
+    const tierLabel = c.impactTier === "unknown" ? "Unranked" : (c.impactQuartile || c.impactTier);
+    const typeLabel = TYPE_LABELS[c.pubType] || "Publication";
+
+    const topicBadges = (c.topics || []).filter(t => t !== "general")
+      .slice(0, 3)
+      .map(t => {
+        const l = topicMap[t] || t;
+        const s = l.split("/")[0].split("(")[0].trim();
+        return `<span class="b-topic">${esc(s)}</span>`;
+      }).join("");
+
+    card.innerHTML = `
+      <div class="card-badges">
+        <span class="b-tier" style="background:${tierColor}">${esc(tierLabel)}</span>
+        <span class="b-type">${esc(typeLabel)}</span>
+        ${topicBadges}
+      </div>
+      <h3>${c.url ? `<a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.title)}</a>` : esc(c.title)}</h3>
+      <div class="desc">${esc(c.description)}</div>
+      <div class="card-foot">
+        <div>
+          ${c.venue ? `<span>${esc(c.venue)}</span>` : ""}
+          ${c.source ? `<span>via ${esc(c.source)}</span>` : ""}
+          ${c.deadline ? `<span class="dl" style="color:${tierColor}">⏳ ${esc(c.deadline)}</span>` : ""}
+        </div>
+        ${c.url ? `<a href="${esc(c.url)}" target="_blank" rel="noopener">View →</a>` : ""}
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+}
+
+// ═══════════════════════════════════════════
+// RENDER DIRECTORY
+// ═══════════════════════════════════════════
+
+function renderDirectory() {
+  Object.entries({
+    "dir-aggregators": DIRECTORY.aggregators,
+    "dir-lists": DIRECTORY.lists,
+    "dir-spanish": DIRECTORY.spanish,
+    "dir-publishers": DIRECTORY.publishers,
+    "dir-alerts": DIRECTORY.alerts,
+  }).forEach(([containerId, items]) => {
+    const el = document.getElementById(containerId);
+    el.innerHTML = items.map(d => `
+      <div class="dir-card">
+        <h3>${esc(d.name)}</h3>
+        <div class="dir-type">${esc(d.type)}</div>
+        <p>${esc(d.desc)}</p>
+        <a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.url.replace(/^https?:\/\//, '').replace(/\/$/, ''))}</a>
+      </div>
+    `).join("");
+  });
+}
+
+// ═══════════════════════════════════════════
+// HELPERS
+// ═══════════════════════════════════════════
+
+function showMsg(type, text) {
+  const grid = document.getElementById("grid");
+  if (type === "loading") {
+    grid.innerHTML = '<div class="msg"><div class="spinner"></div><p>Loading CFP data…</p></div>';
+  } else {
+    grid.innerHTML = `<div class="msg"><p>${text || ""}</p><p class="sm">Browse the Curated Directory tab for manual sources, or trigger the scraper in GitHub Actions.</p></div>`;
+  }
+}
+
+function esc(s) {
+  if (!s) return "";
+  const d = document.createElement("div");
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+// ═══════════════════════════════════════════
+// GO
+// ═══════════════════════════════════════════
+loadData();
+</script>
+</body>
+</html>
