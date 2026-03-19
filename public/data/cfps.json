@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T07:51:13.975238+00:00",
+  "last_updated": "2026-03-19T07:46:03.668558+00:00",
   "total": 101,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
@@ -120,6 +120,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "10d7b8979515"
+    },
+    {
+      "title": "DEIC 2026",
+      "description": "WikiCFP listing. Jun 12, 2026 - Jun 14, 2026",
+      "venue": "",
+      "deadline": "2026 2nd International Conference on Digital Economy and Intelligent Computing",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192334&amp;copyownerid=182680",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "3f38a55b5d8a"
     },
     {
       "title": "gender",
@@ -392,6 +407,21 @@
       "id": "36b65474f9c7"
     },
     {
+      "title": "ICISIP 2026",
+      "description": "WikiCFP listing. Sep 7, 2026 - Sep 11, 2026",
+      "venue": "",
+      "deadline": "The 13th IIAE International Conference on Intelligent Systems and Image Processing 2026",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191600&amp;copyownerid=124960",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "39396786b955"
+    },
+    {
       "title": "Research Handbook on Decision Science 2026",
       "description": "WikiCFP listing. Aug 31, 2025 - Aug 31, 2026",
       "venue": "",
@@ -407,11 +437,11 @@
       "id": "99aea99743fe"
     },
     {
-      "title": "IEMIS 2026",
-      "description": "WikiCFP listing. Aug 10, 2026 - Aug 12, 2026",
+      "title": "ICISS 2026",
+      "description": "WikiCFP listing. Aug 27, 2026 - Aug 29, 2026",
       "venue": "",
-      "deadline": "INTERNATIONAL CONFERENCE ON EMERGING TECHNOLOGIES IN DATA MINING AND INFORMATION SECURITY (IEMIS 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=193051&amp;copyownerid=194806",
+      "deadline": "ACM--2026 The 9th International Conference on Information Science and Systems (ICISS 2026)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191349&amp;copyownerid=124960",
       "topics": [
         "general"
       ],
@@ -419,22 +449,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "6e1302f6e1cc"
-    },
-    {
-      "title": "MLIC 2026",
-      "description": "WikiCFP listing. Apr 24, 2026 - Apr 26, 2026",
-      "venue": "",
-      "deadline": "2026 3rd International Conference on Machine Learning and Intelligent Computing",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192207&amp;copyownerid=197777",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "e59ede211743"
+      "id": "8fb8399ba45d"
     },
     {
       "title": "call",
@@ -495,21 +510,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "4900590d5055"
-    },
-    {
-      "title": "[CfP] SMARTCOMP PhD Forum 2026",
-      "description": "WikiCFP listing. Jun 22, 2026 - Jun 25, 2026",
-      "venue": "",
-      "deadline": "IEEE SmartComp 2026 PhD Forum Call for Contributions",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=193049&amp;copyownerid=197242",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "34f78b4b2d04"
     },
     {
       "title": "Call for papers - Special issue, JSS 2026",
