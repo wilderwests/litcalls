@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T07:59:09.404617+00:00",
-  "total": 99,
+  "last_updated": "2026-03-28T07:42:52.077737+00:00",
+  "total": 98,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -390,21 +390,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "Budapest, Hungary|ICESSD 2026",
-      "description": "WikiCFP listing. Jun 1, 2026 - Jun 3, 2026",
-      "venue": "",
-      "deadline": "2026 International Conference on Environmental Science and Sustainable Development (ICESSD 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189691&amp;copyownerid=176785",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "093c96dd4796"
     },
     {
       "title": "Research Handbook on Decision Science 2026",
