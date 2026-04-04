@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T08:01:36.028374+00:00",
-  "total": 102,
+  "last_updated": "2026-04-04T07:47:28.503572+00:00",
+  "total": 104,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -92,21 +92,6 @@
       "id": "e0e1d64fdac4"
     },
     {
-      "title": "HWESM 2026",
-      "description": "WikiCFP listing. Apr 17, 2026 - Apr 19, 2026",
-      "venue": "",
-      "deadline": "2026 5th International Conference on Humanities, Wisdom Education and Service Management",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188972&amp;copyownerid=163220",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "c7a61b1746f7"
-    },
-    {
       "title": "Digital Futures Indigenous Languages 2026",
       "description": "WikiCFP listing. Jan 1, 2026 - Feb 10, 2026",
       "venue": "",
@@ -135,36 +120,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "10d7b8979515"
-    },
-    {
-      "title": "ADDT 2026",
-      "description": "WikiCFP listing. Jun 5, 2026 - Jun 7, 2026",
-      "venue": "",
-      "deadline": "2026 5th International Conference on Art Design and Digital Technology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194388&amp;copyownerid=163220",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "9a3cee368461"
-    },
-    {
-      "title": "BDAIE 2026",
-      "description": "WikiCFP listing. Jun 12, 2026 - Jun 14, 2026",
-      "venue": "",
-      "deadline": "2026 2nd International Conference on Big Data, Artificial Intelligence and Digital Economy-EI/Scopus",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189392&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "2190d8ef6dfd"
     },
     {
       "title": "gender",
@@ -362,6 +317,21 @@
       "id": "520600f11d5a"
     },
     {
+      "title": "CCCG 2026",
+      "description": "WikiCFP listing. Aug 12, 2026 - Aug 14, 2026",
+      "venue": "",
+      "deadline": "Canadian Conference on Computational Geometry",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192235&amp;copyownerid=35838",
+      "topics": [
+        "digital"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "affda6f4c21a"
+    },
+    {
       "title": "french",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -422,21 +392,6 @@
       "id": "810b13923c68"
     },
     {
-      "title": "AusDM 2026",
-      "description": "WikiCFP listing. Dec 2, 2026 - Dec 4, 2026",
-      "venue": "",
-      "deadline": "The 24th Australasian Data Science and Machine Learning Conference (AusDM)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194387&amp;copyownerid=180859",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "dc05816216d3"
-    },
-    {
       "title": "Cancer Science 2026",
       "description": "WikiCFP listing. Nov 23, 2026 - Nov 24, 2026",
       "venue": "",
@@ -450,6 +405,66 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
+    },
+    {
+      "title": "DSAA 2026",
+      "description": "WikiCFP listing. Oct 6, 2026 - Oct 9, 2026",
+      "venue": "",
+      "deadline": "13th International Conference on Data Science and Advanced Analytics",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192854&amp;copyownerid=197206",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "9cc5ea4b3ab4"
+    },
+    {
+      "title": "IJSEA 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Software Engineering & Applications - ERA Indexed, H Index 35",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187865&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "047a5d983508"
+    },
+    {
+      "title": "IJAIA 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Artificial Intelligence & Applications - H Index - 39",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191849&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "f4c415fa2073"
+    },
+    {
+      "title": "MLAIJ 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "Machine Learning and Applications: An International Journal",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188760&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "7ab9414fec66"
     },
     {
       "title": "Research Handbook on Decision Science 2026",
@@ -525,6 +540,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "4900590d5055"
+    },
+    {
+      "title": "Call for Papers: Lex et Fiscus 2026",
+      "description": "WikiCFP listing. Apr 10, 2026 - Apr 21, 2026",
+      "venue": "",
+      "deadline": "Call for Papers: Lex et Fiscus – Conference on Corporate and Tax Laws (20-21 April 2026) | ICFAI Law School, IFHE Hyderabad",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194390&amp;copyownerid=198088",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "fda2344e4281"
     },
     {
       "title": "Call for papers - Special issue, JSS 2026",
