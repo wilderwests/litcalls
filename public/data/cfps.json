@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-04T07:47:28.503572+00:00",
-  "total": 104,
+  "last_updated": "2026-04-05T07:53:42.458251+00:00",
+  "total": 99,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -317,21 +317,6 @@
       "id": "520600f11d5a"
     },
     {
-      "title": "CCCG 2026",
-      "description": "WikiCFP listing. Aug 12, 2026 - Aug 14, 2026",
-      "venue": "",
-      "deadline": "Canadian Conference on Computational Geometry",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192235&amp;copyownerid=35838",
-      "topics": [
-        "digital"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "affda6f4c21a"
-    },
-    {
       "title": "french",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -405,66 +390,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "DSAA 2026",
-      "description": "WikiCFP listing. Oct 6, 2026 - Oct 9, 2026",
-      "venue": "",
-      "deadline": "13th International Conference on Data Science and Advanced Analytics",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192854&amp;copyownerid=197206",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "9cc5ea4b3ab4"
-    },
-    {
-      "title": "IJSEA 2026",
-      "description": "WikiCFP listing. N/A",
-      "venue": "",
-      "deadline": "International Journal of Software Engineering & Applications - ERA Indexed, H Index 35",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187865&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "047a5d983508"
-    },
-    {
-      "title": "IJAIA 2026",
-      "description": "WikiCFP listing. N/A",
-      "venue": "",
-      "deadline": "International Journal of Artificial Intelligence & Applications - H Index - 39",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191849&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "f4c415fa2073"
-    },
-    {
-      "title": "MLAIJ 2026",
-      "description": "WikiCFP listing. N/A",
-      "venue": "",
-      "deadline": "Machine Learning and Applications: An International Journal",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188760&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "7ab9414fec66"
     },
     {
       "title": "Research Handbook on Decision Science 2026",
