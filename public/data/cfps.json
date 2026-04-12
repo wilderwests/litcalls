@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-11T07:48:32.172250+00:00",
-  "total": 110,
+  "last_updated": "2026-04-12T08:01:46.726334+00:00",
+  "total": 109,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -255,21 +255,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "10d7b8979515"
-    },
-    {
-      "title": "ICDTE 2026",
-      "description": "WikiCFP listing. Oct 30, 2026 - Nov 1, 2026",
-      "venue": "",
-      "deadline": "2026 10th International Conference on Digital Technology in Education (ICDTE 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192958&amp;copyownerid=198213",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "52c8a21fdade"
     },
     {
       "title": "gender",
