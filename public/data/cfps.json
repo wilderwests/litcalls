@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-18T07:58:27.346127+00:00",
-  "total": 113,
+  "last_updated": "2026-04-19T08:04:57.679892+00:00",
+  "total": 110,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -75,21 +75,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "ccc434ad2a17"
-    },
-    {
-      "title": "HRM 2026",
-      "description": "WikiCFP listing. Apr 17, 2026 - May 8, 2026",
-      "venue": "",
-      "deadline": "Handbook of Religions and Migration (Springer)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194731&amp;copyownerid=188183",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "1adf911c0099"
     },
     {
       "title": "Anticolonial Platform Studies 2026",
@@ -270,6 +255,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "10d7b8979515"
+    },
+    {
+      "title": "MIDA 2026",
+      "description": "WikiCFP listing. Apr 24, 2026 - Apr 26, 2026",
+      "venue": "",
+      "deadline": "3rd International Conference on Machine Intelligence and Digital Applications",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194751&amp;copyownerid=13149",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "22cd0d331fb0"
     },
     {
       "title": "gender",
@@ -557,36 +557,6 @@
       "id": "36b65474f9c7"
     },
     {
-      "title": "MSE 2026",
-      "description": "WikiCFP listing. May 30, 2026 - May 31, 2026",
-      "venue": "",
-      "deadline": "10th International Conference on Materials Science and Engineering",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189522&amp;copyownerid=170233",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "604066275108"
-    },
-    {
-      "title": "BIOENG 2026",
-      "description": "WikiCFP listing. May 30, 2026 - May 31, 2026",
-      "venue": "",
-      "deadline": "10th International Conference on Bioscience & Engineering",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189465&amp;copyownerid=170233",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "8eae0823d28b"
-    },
-    {
       "title": "Research Handbook on Decision Science 2026",
       "description": "WikiCFP listing. Aug 31, 2025 - Aug 31, 2026",
       "venue": "",
@@ -617,36 +587,6 @@
       "id": "53b9e9679a8e"
     },
     {
-      "title": "Call for PhD Forum Contributions - ECML 2026",
-      "description": "WikiCFP listing. Sep 7, 2026 - Sep 11, 2026",
-      "venue": "",
-      "deadline": "Call for PhD Forum Contributions - ECML PKDD 2026 - ICORE Rank A",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191920&amp;copyownerid=196945",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "c91fc555aad7"
-    },
-    {
-      "title": "EMNLP/AACL-IJCNLP 2026",
-      "description": "WikiCFP listing. Apr 8, 2026 - Jun 1, 2026",
-      "venue": "",
-      "deadline": "Joint Call for Tutorial Proposals (EMNLP/AACL-IJCNLP 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194733&amp;copyownerid=181483",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "d36b5c4ea371"
-    },
-    {
       "title": "Special Call for Neurosymbolic Benchmark 2026",
       "description": "WikiCFP listing. N/A",
       "venue": "",
@@ -660,6 +600,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "d4734a228ecb"
+    },
+    {
+      "title": "Call for PhD Forum Contributions - ECML 2026",
+      "description": "WikiCFP listing. Sep 7, 2026 - Sep 11, 2026",
+      "venue": "",
+      "deadline": "Call for PhD Forum Contributions - ECML PKDD 2026 - ICORE Rank A",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191920&amp;copyownerid=196945",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "c91fc555aad7"
     },
     {
       "title": "JCP Call for Papers 2026",
