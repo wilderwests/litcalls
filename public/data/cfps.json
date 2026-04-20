@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T08:04:57.679892+00:00",
-  "total": 110,
+  "last_updated": "2026-04-20T09:06:21.707851+00:00",
+  "total": 144,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -212,6 +212,21 @@
       "id": "5d9b1bc3bad1"
     },
     {
+      "title": "CLS Volume 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "Call for Abstract/Chapters: Body & Mind - Contemporary Literary Studies on Language and Literature Volume 10",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194753&amp;copyownerid=198332",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "44b2fb5347dc"
+    },
+    {
       "title": "DIGITAL",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -255,21 +270,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "10d7b8979515"
-    },
-    {
-      "title": "MIDA 2026",
-      "description": "WikiCFP listing. Apr 24, 2026 - Apr 26, 2026",
-      "venue": "",
-      "deadline": "3rd International Conference on Machine Intelligence and Digital Applications",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194751&amp;copyownerid=13149",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "22cd0d331fb0"
     },
     {
       "title": "gender",
@@ -467,6 +467,21 @@
       "id": "520600f11d5a"
     },
     {
+      "title": "IJIT 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal on Information Theory",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188478&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "09d42248e187"
+    },
+    {
       "title": "french",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -527,21 +542,6 @@
       "id": "5641b1121c44"
     },
     {
-      "title": "Cyber Science 2026",
-      "description": "WikiCFP listing. Jun 11, 2026 - Jun 12, 2026",
-      "venue": "",
-      "deadline": "International Conference on Cybersecurity, Situational Awareness and Social Media",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190245&amp;copyownerid=16539",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "810b13923c68"
-    },
-    {
       "title": "Cancer Science 2026",
       "description": "WikiCFP listing. Nov 23, 2026 - Nov 24, 2026",
       "venue": "",
@@ -557,19 +557,439 @@
       "id": "36b65474f9c7"
     },
     {
-      "title": "Research Handbook on Decision Science 2026",
-      "description": "WikiCFP listing. Aug 31, 2025 - Aug 31, 2026",
+      "title": "WCSE 2026",
+      "description": "WikiCFP listing. Jun 11, 2026 - Jun 13, 2026",
       "venue": "",
-      "deadline": "Call for Book Chapters: Research Handbook on Decision Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189673&amp;copyownerid=40942",
+      "deadline": "2026 The 16th International Workshop on Computer Science and Engineering (WCSE 2026)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189730&amp;copyownerid=13881",
       "topics": [
         "general"
       ],
-      "pubType": "chapter",
+      "pubType": "unknown",
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "99aea99743fe"
+      "id": "806ab87007de"
+    },
+    {
+      "title": "ICITS 2026",
+      "description": "WikiCFP listing. Jun 11, 2026 - Jun 13, 2026",
+      "venue": "",
+      "deadline": "2026 The 14th International Conference on Information Technology and Science (ICITS 2026)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189731&amp;copyownerid=13881",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "a7df57554596"
+    },
+    {
+      "title": "ICITS--EI 2026",
+      "description": "WikiCFP listing. Jun 11, 2026 - Jun 13, 2026",
+      "venue": "",
+      "deadline": "2026 The 14th International Conference on Information Technology and Science (ICITS 2026)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189725&amp;copyownerid=13881",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "f302fc617b7d"
+    },
+    {
+      "title": "WCSE--EI 2026",
+      "description": "WikiCFP listing. Jun 11, 2026 - Jun 13, 2026",
+      "venue": "",
+      "deadline": "2026 The 16th International Workshop on Computer Science and Engineering (WCSE 2026)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189726&amp;copyownerid=13881",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "deb57508a0ae"
+    },
+    {
+      "title": "ICFCC 2026",
+      "description": "WikiCFP listing. Jun 11, 2026 - Jun 13, 2026",
+      "venue": "",
+      "deadline": "2026 The 18th International Conference on Future Computer and Communication (ICFCC 2026)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189728&amp;copyownerid=13881",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "acab683c8754"
+    },
+    {
+      "title": "IEEE ICICN 2026",
+      "description": "WikiCFP listing. Sep 4, 2026 - Sep 7, 2026",
+      "venue": "",
+      "deadline": "2026 IEEE 14th International Conference on Information and Communication Networks (ICICN 2026)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191422&amp;copyownerid=13881",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "68a7e64e3a88"
+    },
+    {
+      "title": "EIMSS 2026",
+      "description": "WikiCFP listing. Jul 3, 2026 - Jul 5, 2026",
+      "venue": "",
+      "deadline": "2026 6th International Conference on Education, Information Management and Service Science",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194764&amp;copyownerid=182680",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "112b3087d7ae"
+    },
+    {
+      "title": "ICBSTS 2026",
+      "description": "WikiCFP listing. Sep 2, 2026 - Sep 4, 2026",
+      "venue": "",
+      "deadline": "2026 7th International Conference on Building Science, Technology and Sustainability (ICBSTS 2026)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190441&amp;copyownerid=13881",
+      "topics": [
+        "ecocriticism"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "ff797474955c"
+    },
+    {
+      "title": "IC2E 2026",
+      "description": "WikiCFP listing. Oct 13, 2026 - Oct 16, 2026",
+      "venue": "",
+      "deadline": "14th IEEE International Conference on Cloud Engineering",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192745&amp;copyownerid=86190",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "23c323bbe2eb"
+    },
+    {
+      "title": "CoSIT 2026",
+      "description": "WikiCFP listing. May 16, 2026 - May 17, 2026",
+      "venue": "",
+      "deadline": "13th International Conference on Computer Science and Information Technology",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=193037&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "3b6cc0c2852d"
+    },
+    {
+      "title": "IJCSEA 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Computer Science, Engineering and Applications",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189939&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "ddcd579f9035"
+    },
+    {
+      "title": "MSE 2026",
+      "description": "WikiCFP listing. May 30, 2026 - May 31, 2026",
+      "venue": "",
+      "deadline": "10th International Conference on Materials Science and Engineering",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189522&amp;copyownerid=170233",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "604066275108"
+    },
+    {
+      "title": "IJCSES 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Computer Science and Engineering Survey",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191742&amp;copyownerid=46167",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "300e0be66c01"
+    },
+    {
+      "title": "IJCSIT 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Computer Science and Information Technology - H-index 60",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192075&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "e7e5d46785ea"
+    },
+    {
+      "title": "IJBES 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Biomedical Engineering and Science",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192456&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "8e72f4be1d28"
+    },
+    {
+      "title": "SCDD 2026",
+      "description": "WikiCFP listing. May 30, 2026 - May 31, 2026",
+      "venue": "",
+      "deadline": "4th International Conference on Soft Computing, Data mining and Data Science",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189265&amp;copyownerid=170233",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "7779f0f27493"
+    },
+    {
+      "title": "IJCSEIT 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Computer Science, Engineering and Information Technology",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190111&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "d5ca73a63318"
+    },
+    {
+      "title": "IJCSA 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal on Computational Science & Applications",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192038&amp;copyownerid=46167",
+      "topics": [
+        "digital"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "800561f38636"
+    },
+    {
+      "title": "COMIT 2026",
+      "description": "WikiCFP listing. May 23, 2026 - May 24, 2026",
+      "venue": "",
+      "deadline": "10th International Conference on Computer Science, Information Technology and Artificial Intelligence",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194718&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "53210552e665"
+    },
+    {
+      "title": "IJMA 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Multimedia & Its Applications -- ERA Indexed, H index - 24",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188709&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "876f296ba9c0"
+    },
+    {
+      "title": "IJSEA 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Software Engineering & Applications - ERA Indexed, H Index 35",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187865&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "047a5d983508"
+    },
+    {
+      "title": "IJDMS 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Database Management Systems",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188006&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "1a8464ac21cd"
+    },
+    {
+      "title": "BIOENG 2026",
+      "description": "WikiCFP listing. May 30, 2026 - May 31, 2026",
+      "venue": "",
+      "deadline": "10th International Conference on Bioscience & Engineering",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189465&amp;copyownerid=170233",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "8eae0823d28b"
+    },
+    {
+      "title": "IJAMSE 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Advances in Materials Science and Engineering",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189523&amp;copyownerid=170233",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "76913c391458"
+    },
+    {
+      "title": "IJCAx 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Computer-Aided technologies",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187895&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "8fc654b53120"
+    },
+    {
+      "title": "IJWMN 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Wireless & Mobile Networks -- ERA Indexed, H index 38",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187945&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "797156f184bf"
+    },
+    {
+      "title": "IJDKP 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Data Mining & Knowledge Management Process",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189076&amp;copyownerid=170233",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "4d1bccac37c6"
+    },
+    {
+      "title": "NCO 2026",
+      "description": "WikiCFP listing. Jun 20, 2026 - Jun 21, 2026",
+      "venue": "",
+      "deadline": "13th International Conference on Foundations of Computer Science & Technology",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189264&amp;copyownerid=170233",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "85618cbe4f6d"
+    },
+    {
+      "title": "CDKP 2026",
+      "description": "WikiCFP listing. Jun 20, 2026 - Jun 21, 2026",
+      "venue": "",
+      "deadline": "15th International Conference on Data Mining & Knowledge Management Process",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189031&amp;copyownerid=170233",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "e9dd9bcec2bb"
     },
     {
       "title": "call",
@@ -587,21 +1007,6 @@
       "id": "53b9e9679a8e"
     },
     {
-      "title": "Special Call for Neurosymbolic Benchmark 2026",
-      "description": "WikiCFP listing. N/A",
-      "venue": "",
-      "deadline": "Special Call for Neurosymbolic Benchmark Papers - Neurosymbolic Artificial Intelligence Journal",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191263&amp;copyownerid=196451",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "d4734a228ecb"
-    },
-    {
       "title": "Call for PhD Forum Contributions - ECML 2026",
       "description": "WikiCFP listing. Sep 7, 2026 - Sep 11, 2026",
       "venue": "",
@@ -615,6 +1020,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "c91fc555aad7"
+    },
+    {
+      "title": "Special Call for Neurosymbolic Benchmark 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "Special Call for Neurosymbolic Benchmark Papers - Neurosymbolic Artificial Intelligence Journal",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191263&amp;copyownerid=196451",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "d4734a228ecb"
     },
     {
       "title": "JCP Call for Papers 2026",
@@ -1665,6 +2085,96 @@
       "impactTier": "unknown",
       "impactQuartile": "Edited volume",
       "id": "5a5ef1dbb504"
+    },
+    {
+      "title": "View all authors",
+      "description": "From Bloomsbury.",
+      "venue": "Bloomsbury",
+      "deadline": null,
+      "url": "",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "Bloomsbury",
+      "impactTier": "unknown",
+      "impactQuartile": "Edited volume",
+      "id": "9f146e7b9d2e"
+    },
+    {
+      "title": "Create an account",
+      "description": "From Bloomsbury.",
+      "venue": "Bloomsbury",
+      "deadline": null,
+      "url": "",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "Bloomsbury",
+      "impactTier": "unknown",
+      "impactQuartile": "Edited volume",
+      "id": "fd3d7d3ccbe7"
+    },
+    {
+      "title": "CHILDREN'S",
+      "description": "From Bloomsbury.",
+      "venue": "Bloomsbury",
+      "deadline": null,
+      "url": "https://www.bloomsbury.com/uk/childrens/",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "Bloomsbury",
+      "impactTier": "unknown",
+      "impactQuartile": "Edited volume",
+      "id": "8d9aa4373bca"
+    },
+    {
+      "title": "African & Africana Studies",
+      "description": "From Bloomsbury.",
+      "venue": "Bloomsbury",
+      "deadline": null,
+      "url": "",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "Bloomsbury",
+      "impactTier": "unknown",
+      "impactQuartile": "Edited volume",
+      "id": "7fcd3294b2cb"
+    },
+    {
+      "title": "Art & Visual Culture",
+      "description": "From Bloomsbury.",
+      "venue": "Bloomsbury",
+      "deadline": null,
+      "url": "",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "Bloomsbury",
+      "impactTier": "unknown",
+      "impactQuartile": "Edited volume",
+      "id": "cfaf5e661935"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "description": "From Bloomsbury.",
+      "venue": "Bloomsbury",
+      "deadline": null,
+      "url": "",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "Bloomsbury",
+      "impactTier": "unknown",
+      "impactQuartile": "Edited volume",
+      "id": "6df9718bc022"
     }
   ]
 }
