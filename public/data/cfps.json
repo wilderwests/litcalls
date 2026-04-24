@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T08:51:51.601561+00:00",
-  "total": 111,
+  "last_updated": "2026-04-24T08:58:42.704706+00:00",
+  "total": 107,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -272,21 +272,6 @@
       "id": "50495f45c525"
     },
     {
-      "title": "AIDME 2026",
-      "description": "WikiCFP listing. May 22, 2026 - May 24, 2026",
-      "venue": "",
-      "deadline": "2026 International Conference on Artificial Intelligence, Digital Media and Education",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188475&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "d9e301c90125"
-    },
-    {
       "title": "DIGITAL 2026",
       "description": "WikiCFP listing. Jul 5, 2026 - Jul 9, 2026",
       "venue": "",
@@ -497,36 +482,6 @@
       "id": "520600f11d5a"
     },
     {
-      "title": "NETGCOOP 2026",
-      "description": "WikiCFP listing. Oct 14, 2026 - Oct 16, 2026",
-      "venue": "",
-      "deadline": "The 13th International Conference of Networks, Games, Control and Optimization",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192035&amp;copyownerid=198392",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "0cb7d3b14fe9"
-    },
-    {
-      "title": "MFCS 2026",
-      "description": "WikiCFP listing. Aug 24, 2026 - Aug 28, 2026",
-      "venue": "",
-      "deadline": "Mathematical Foundations of Computer Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194871&amp;copyownerid=198392",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "4bc5dd102f3a"
-    },
-    {
       "title": "french",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -617,51 +572,6 @@
       "id": "810b13923c68"
     },
     {
-      "title": "ODS 2026",
-      "description": "WikiCFP listing. Sep 7, 2026 - Sep 10, 2026",
-      "venue": "",
-      "deadline": "International Conference on Optimization and Decision Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192605&amp;copyownerid=198392",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "44b5b093a701"
-    },
-    {
-      "title": "ISCTT 2026",
-      "description": "WikiCFP listing. Jun 12, 2026 - Jun 14, 2026",
-      "venue": "",
-      "deadline": "2026 11th International Conference on Information Science, Computer Technology and Transportation",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194547&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "5316def35bfb"
-    },
-    {
-      "title": "MADEISD 2026",
-      "description": "WikiCFP listing. Sep 28, 2026 - Oct 1, 2026",
-      "venue": "",
-      "deadline": "8th MADEISD Workshop 2026 – Modern Approaches in Data Engineering and Information System Design",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194869&amp;copyownerid=198390",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "d8ed289174c7"
-    },
-    {
       "title": "Poultry Science 2026",
       "description": "WikiCFP listing. Aug 10, 2026 - Aug 14, 2026",
       "venue": "",
@@ -677,11 +587,11 @@
       "id": "b265f871bb94"
     },
     {
-      "title": "GreeNet Symposium - SGNC 2026",
-      "description": "WikiCFP listing. Sep 17, 2026 - Sep 19, 2026",
+      "title": "IEEE-IRI 2026",
+      "description": "WikiCFP listing. Jul 31, 2026 - Aug 2, 2026",
       "venue": "",
-      "deadline": "17th Symposium on Green Networking and Computing (SGNC 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=28662&amp;copyownerid=24832",
+      "deadline": "Short Paper and Poster Deadline Approaching - IEEE 27th International Conference on Information Reuse and Integration for Data Science (IEEE IRI’26)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192694&amp;copyownerid=197457",
       "topics": [
         "general"
       ],
@@ -689,14 +599,14 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "cace3cbd5e46"
+      "id": "308aa98dd6f7"
     },
     {
-      "title": "ICSIPA 2026",
-      "description": "WikiCFP listing. Sep 8, 2026 - Sep 10, 2026",
+      "title": "DATA 2026",
+      "description": "WikiCFP listing. Jul 16, 2026 - Jul 18, 2026",
       "venue": "",
-      "deadline": "IEEE International Conference on Signal and Image Processing Applications",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191999&amp;copyownerid=197002",
+      "deadline": "15th International Conference on Data Science, Technology and Applications",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190725&amp;copyownerid=45217",
       "topics": [
         "general"
       ],
@@ -704,7 +614,52 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "c9f4b0b082df"
+      "id": "6f808c28141b"
+    },
+    {
+      "title": "ICSOFT 2026",
+      "description": "WikiCFP listing. Jul 16, 2026 - Jul 18, 2026",
+      "venue": "",
+      "deadline": "21st International Conference on Software Technologies",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190729&amp;copyownerid=45217",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "1b9c4ef70d32"
+    },
+    {
+      "title": "ACDL 2026",
+      "description": "WikiCFP listing. Jun 8, 2026 - Jun 12, 2026",
+      "venue": "",
+      "deadline": "9th Advanced Course on Data Science & Machine Learning",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194229&amp;copyownerid=85287",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "89e83d83ed5c"
+    },
+    {
+      "title": "EXPLAINS 2026",
+      "description": "WikiCFP listing. Oct 28, 2026 - Oct 30, 2026",
+      "venue": "",
+      "deadline": "3rd International Conference on Explainable AI for Neural and Symbolic Methods",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192116&amp;copyownerid=176795",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "2fb08eb30b36"
     },
     {
       "title": "Research Handbook on Decision Science 2026",
@@ -735,21 +690,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "53b9e9679a8e"
-    },
-    {
-      "title": "VUIR 2026",
-      "description": "WikiCFP listing. N/A",
-      "venue": "",
-      "deadline": "Special Issue Call for Papers: Video Understanding and Information Retrieval @ Journal of Imaging",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194826&amp;copyownerid=198390",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "d2cb426817a5"
     },
     {
       "title": "Call for PhD Forum Contributions - ECML 2026",
