@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T08:59:01.056198+00:00",
-  "total": 106,
+  "last_updated": "2026-05-02T08:19:51.058418+00:00",
+  "total": 104,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -377,21 +377,6 @@
       "id": "e154a8fe12c5"
     },
     {
-      "title": "ARDUOUS 2026",
-      "description": "WikiCFP listing. Aug 11, 2026 - Aug 11, 2026",
-      "venue": "",
-      "deadline": "10th International Workshop on Annotation of Real World Data for Artificial Intelligent Systems",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194694&amp;copyownerid=197465",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "e6712109b4bd"
-    },
-    {
       "title": "IFAC World Congress '2026 SIMCA 2026",
       "description": "WikiCFP listing. Aug 23, 2026 - Aug 28, 2026",
       "venue": "",
@@ -602,6 +587,21 @@
       "id": "36b65474f9c7"
     },
     {
+      "title": "RP 2026",
+      "description": "WikiCFP listing. Oct 21, 2026 - Oct 23, 2026",
+      "venue": "",
+      "deadline": "20th International Conference on Reachability Problems",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195064&amp;copyownerid=49203",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "ace120db71e0"
+    },
+    {
       "title": "Poultry Science 2026",
       "description": "WikiCFP listing. Aug 10, 2026 - Aug 14, 2026",
       "venue": "",
@@ -615,36 +615,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "b265f871bb94"
-    },
-    {
-      "title": "ASONAM 2026",
-      "description": "WikiCFP listing. Aug 23, 2026 - Aug 27, 2026",
-      "venue": "",
-      "deadline": "The 18th International Conference on Advances in Social Networks Analysis and Mining",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191870&amp;copyownerid=3894",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "466530116b37"
-    },
-    {
-      "title": "IEEE SmartIoT 2026",
-      "description": "WikiCFP listing. Aug 21, 2026 - Aug 24, 2026",
-      "venue": "",
-      "deadline": "IEEE International Conference on Smart Internet of Things on August 21-24, 2026 in Shenyang, China",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192321&amp;copyownerid=193733",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "8f12f4707e53"
     },
     {
       "title": "Research Handbook on Decision Science 2026",
