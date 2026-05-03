@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T08:19:51.058418+00:00",
+  "last_updated": "2026-05-03T08:45:02.909569+00:00",
   "total": 104,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
@@ -285,6 +285,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "50495f45c525"
+    },
+    {
+      "title": "CITDI 2026",
+      "description": "WikiCFP listing. Aug 26, 2026 - Aug 28, 2026",
+      "venue": "",
+      "deadline": "Congress on Information Technologies and Digital Innovation",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=193043&amp;copyownerid=197762",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "d5d3b4a5f57f"
     },
     {
       "title": "DIGITAL 2026",
@@ -585,21 +600,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "RP 2026",
-      "description": "WikiCFP listing. Oct 21, 2026 - Oct 23, 2026",
-      "venue": "",
-      "deadline": "20th International Conference on Reachability Problems",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195064&amp;copyownerid=49203",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "ace120db71e0"
     },
     {
       "title": "Poultry Science 2026",
