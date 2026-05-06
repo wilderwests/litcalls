@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T09:06:08.300544+00:00",
-  "total": 103,
+  "last_updated": "2026-05-06T09:21:25.363946+00:00",
+  "total": 111,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -287,6 +287,21 @@
       "id": "50495f45c525"
     },
     {
+      "title": "AIDMDI 2026",
+      "description": "WikiCFP listing. Jun 5, 2026 - Jun 7, 2026",
+      "venue": "",
+      "deadline": "2026 International Conference on AI-Enabled Digital Media and Design Innovation",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190900&amp;copyownerid=182680",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "b003c69ad497"
+    },
+    {
       "title": "DIGITAL 2026",
       "description": "WikiCFP listing. Jul 5, 2026 - Jul 9, 2026",
       "venue": "",
@@ -497,6 +512,21 @@
       "id": "520600f11d5a"
     },
     {
+      "title": "SPA 2026",
+      "description": "WikiCFP listing. Sep 16, 2026 - Sep 18, 2026",
+      "venue": "",
+      "deadline": "29th International Conference on Signal Processing: Algorithms, Architectures, Arrangements, and Applications (SPA 2026)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195113&amp;copyownerid=198599",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "4a17335cd5a1"
+    },
+    {
       "title": "french",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -557,11 +587,11 @@
       "id": "5641b1121c44"
     },
     {
-      "title": "Cyber Science 2026",
-      "description": "WikiCFP listing. Jun 11, 2026 - Jun 12, 2026",
+      "title": "ACDSA 2027",
+      "description": "WikiCFP listing. Feb 2, 2027 - Feb 4, 2027",
       "venue": "",
-      "deadline": "International Conference on Cybersecurity, Situational Awareness and Social Media",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190245&amp;copyownerid=16539",
+      "deadline": "4th International Conference on Artificial Intelligence, Computer, Data Sciences, and Applications",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195124&amp;copyownerid=13149",
       "topics": [
         "general"
       ],
@@ -569,7 +599,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "810b13923c68"
+      "id": "480eb68f5b91"
     },
     {
       "title": "Cancer Science 2026",
@@ -587,6 +617,81 @@
       "id": "36b65474f9c7"
     },
     {
+      "title": "SSR 2026",
+      "description": "WikiCFP listing. Dec 13, 2026 - Dec 15, 2026",
+      "venue": "",
+      "deadline": "Security Standardisation Research (SSR) Conference 2026",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195094&amp;copyownerid=198599",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "bab274c58585"
+    },
+    {
+      "title": "Cyber Science 2026",
+      "description": "WikiCFP listing. Jun 11, 2026 - Jun 12, 2026",
+      "venue": "",
+      "deadline": "International Conference on Cybersecurity, Situational Awareness and Social Media",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190245&amp;copyownerid=16539",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "810b13923c68"
+    },
+    {
+      "title": "IJCSIT 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Computer Science and Information Technology - H-index 60",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192075&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "e7e5d46785ea"
+    },
+    {
+      "title": "DSAA 2026",
+      "description": "WikiCFP listing. Oct 6, 2026 - Oct 9, 2026",
+      "venue": "",
+      "deadline": "13th International Conference on Data Science and Advanced Analytics",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192854&amp;copyownerid=198595",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "9cc5ea4b3ab4"
+    },
+    {
+      "title": "AIST 2026",
+      "description": "WikiCFP listing. Oct 16, 2026 - Oct 18, 2026",
+      "venue": "",
+      "deadline": "The 13th International Conference on Analysis of Images, Social Networks and Texts",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194962&amp;copyownerid=198591",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "60d846c4ca80"
+    },
+    {
       "title": "Poultry Science 2026",
       "description": "WikiCFP listing. Aug 10, 2026 - Aug 14, 2026",
       "venue": "",
@@ -600,6 +705,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "b265f871bb94"
+    },
+    {
+      "title": "ICA2S 2026",
+      "description": "WikiCFP listing. Dec 11, 2026 - Dec 12, 2026",
+      "venue": "",
+      "deadline": "2nd International Conference on Advances in Artificial Intelligence for Society",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194914&amp;copyownerid=198595",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "06c65cc01c86"
     },
     {
       "title": "Research Handbook on Decision Science 2026",
