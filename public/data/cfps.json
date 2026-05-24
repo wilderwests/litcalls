@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T09:00:39.334976+00:00",
+  "last_updated": "2026-05-24T09:20:31.094616+00:00",
   "total": 101,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
@@ -707,21 +707,6 @@
       "id": "d4734a228ecb"
     },
     {
-      "title": "cSIS 2026",
-      "description": "WikiCFP listing. Dec 8, 2026 - Dec 9, 2026",
-      "venue": "",
-      "deadline": "Call for Papers: International Conference on Sustainable and Intelligent Systems",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195485&amp;copyownerid=13149",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "6475ce585e09"
-    },
-    {
       "title": "Call for Abstracts 2026",
       "description": "WikiCFP listing. Nov 15, 2026 - Nov 19, 2026",
       "venue": "",
@@ -735,6 +720,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "79509a23fc5f"
+    },
+    {
+      "title": "CIKM 2026",
+      "description": "WikiCFP listing. Nov 7, 2026 - Nov 11, 2026",
+      "venue": "",
+      "deadline": "Call For Papers - CIKM 2026",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194623&amp;copyownerid=37616",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "091d242c0059"
     },
     {
       "title": "JCP Call for Papers 2026",
