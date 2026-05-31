@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-30T09:13:17.271147+00:00",
-  "total": 101,
+  "last_updated": "2026-05-31T09:45:55.036306+00:00",
+  "total": 102,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -405,6 +405,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "75d4e448011c"
+    },
+    {
+      "title": "GenAAI 2026",
+      "description": "WikiCFP listing. Aug 17, 2026 - Aug 22, 2026",
+      "venue": "",
+      "deadline": "1st International Workshop on Generative and Agentic AI for Real-World Video Understanding",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192577&amp;copyownerid=36929",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "d1d183e30d1f"
     },
     {
       "title": "World Quantum Festival 2026",
