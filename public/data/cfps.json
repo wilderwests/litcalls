@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T11:54:58.099898+00:00",
-  "total": 104,
+  "last_updated": "2026-06-04T10:37:15.548924+00:00",
+  "total": 106,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -332,19 +332,19 @@
       "id": "a506f152b627"
     },
     {
-      "title": "FMAIC - 2026",
-      "description": "WikiCFP listing. Oct 22, 2026 - Oct 23, 2026",
+      "title": "MHEHD 2026",
+      "description": "WikiCFP listing. Aug 14, 2026 - Aug 16, 2026",
       "venue": "",
-      "deadline": "Workshop “Framing Maturing and Ageing across the Iron Curtain: Health Narratives at the Intersection of Knowledge Production, Aesthetics, and Governance”",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199732&amp;copyownerid=199022",
+      "deadline": "2026 7th International Conference on Mental Health, Education and Human Development",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199811&amp;copyownerid=163220",
       "topics": [
-        "theory"
+        "general"
       ],
       "pubType": "unknown",
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "8dc0ebf8efe5"
+      "id": "b922761b3854"
     },
     {
       "title": "DIGITAL 2026",
@@ -647,6 +647,36 @@
       "id": "36b65474f9c7"
     },
     {
+      "title": "CSoNet 2026",
+      "description": "WikiCFP listing. Nov 16, 2026 - Nov 18, 2026",
+      "venue": "",
+      "deadline": "The 15th International Conference on Computational Science and Network Intelligence",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199618&amp;copyownerid=13149",
+      "topics": [
+        "digital"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "d467182d4767"
+    },
+    {
+      "title": "CISAT 2026",
+      "description": "WikiCFP listing. Jul 3, 2026 - Jul 5, 2026",
+      "venue": "",
+      "deadline": "IEEE 9th International Conference on Computer Information Science and Application Technology",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194907&amp;copyownerid=163220",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "3fb7a318cc2e"
+    },
+    {
       "title": "Cyber Science 2026",
       "description": "WikiCFP listing. Jun 11, 2026 - Jun 12, 2026",
       "venue": "",
@@ -662,11 +692,11 @@
       "id": "810b13923c68"
     },
     {
-      "title": "CSIT 2026",
-      "description": "WikiCFP listing. Jul 25, 2026 - Jul 26, 2026",
+      "title": "HCOMP 2026",
+      "description": "WikiCFP listing. Sep 27, 2026 - Sep 30, 2026",
       "venue": "",
-      "deadline": "13th International Conference on Computer Science and Information Technology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195487&amp;copyownerid=33993",
+      "deadline": "The 2026 ACM Conference on Human-AI Complementarity and Alignment",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195395&amp;copyownerid=198760",
       "topics": [
         "general"
       ],
@@ -674,22 +704,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "66d8a2781e7b"
-    },
-    {
-      "title": "NCWC 2026",
-      "description": "WikiCFP listing. Aug 22, 2026 - Aug 23, 2026",
-      "venue": "",
-      "deadline": "12th International Conference of Networks, Communications, Wireless and Mobile Computing",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189523&amp;copyownerid=170233",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "9429e9779d9e"
+      "id": "0bbdcea4162c"
     },
     {
       "title": "Poultry Science 2026",
@@ -705,6 +720,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "b265f871bb94"
+    },
+    {
+      "title": "SMC 2026",
+      "description": "WikiCFP listing. Jul 29, 2026 - Jul 30, 2026",
+      "venue": "",
+      "deadline": "10th International Conference on Soft Computing, Mathematics and Control",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192324&amp;copyownerid=46167",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "d867899eef12"
     },
     {
       "title": "Research Handbook on Decision Science 2026",
