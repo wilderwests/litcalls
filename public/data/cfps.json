@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T10:44:44.900436+00:00",
-  "total": 108,
+  "last_updated": "2026-06-06T09:24:04.938229+00:00",
+  "total": 102,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -167,6 +167,21 @@
       "id": "3a9a8113cd9b"
     },
     {
+      "title": "CFP Mythology Conference 2026",
+      "description": "WikiCFP listing. Mar 13, 2026 - Mar 15, 2026",
+      "venue": "",
+      "deadline": "The International Society of Mythology Seeks Presentation Submissions for the 7th Mythologium",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189967&amp;copyownerid=199066",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "aa5483796b68"
+    },
+    {
       "title": "fantastic",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -300,21 +315,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "e0e1d64fdac4"
-    },
-    {
-      "title": "DEBAI 2026",
-      "description": "WikiCFP listing. Jul 3, 2026 - Jul 5, 2026",
-      "venue": "",
-      "deadline": "2026 3rd International Conference on Digital Economy, Blockchain and Artificial Intelligence",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194792&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "22f43cedb12e"
     },
     {
       "title": "Digital Futures Indigenous Languages 2026",
@@ -617,21 +617,6 @@
       "id": "5641b1121c44"
     },
     {
-      "title": "Cancer Science 2026",
-      "description": "WikiCFP listing. Nov 23, 2026 - Nov 24, 2026",
-      "venue": "",
-      "deadline": "8th World Congress on Cancer Research and Oncology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192990&amp;copyownerid=197694",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "36b65474f9c7"
-    },
-    {
       "title": "Science & Religion Forum 2026",
       "description": "WikiCFP listing. Sep 1, 2026 - Sep 30, 2026",
       "venue": "",
@@ -645,51 +630,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "1069dd2e2dee"
-    },
-    {
-      "title": "IEEE FMLDS 2026",
-      "description": "WikiCFP listing. Nov 20, 2026 - Nov 23, 2026",
-      "venue": "",
-      "deadline": "2026 IEEE International Conference on Future Machine Learning and Data Science (FMLDS2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192640&amp;copyownerid=186932",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "c14a5f83e596"
-    },
-    {
-      "title": "IEEE-ICECCS 2026",
-      "description": "WikiCFP listing. Jul 10, 2026 - Jul 12, 2026",
-      "venue": "",
-      "deadline": "2025 IEEE International Conference on Electronics, Communications and Computer Science (ICECCS 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=171907&amp;copyownerid=199051",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "90c95376c3d1"
-    },
-    {
-      "title": "ISCTT 2026",
-      "description": "WikiCFP listing. Sep 4, 2026 - Sep 6, 2026",
-      "venue": "",
-      "deadline": "2026 11th International Conference on Information Science, Computer Technology and Transportation",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194547&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "5316def35bfb"
     },
     {
       "title": "Cyber Science 2026",
@@ -707,11 +647,11 @@
       "id": "810b13923c68"
     },
     {
-      "title": "ANUBIS 2026",
-      "description": "WikiCFP listing. Sep 18, 2026 - Sep 18, 2026",
+      "title": "Cancer Science 2026",
+      "description": "WikiCFP listing. Nov 23, 2026 - Nov 24, 2026",
       "venue": "",
-      "deadline": "Assessment with New methodologies, Unified Benchmarks, and environments, of Intrusion detection and response Systems",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195174&amp;copyownerid=198613",
+      "deadline": "8th World Congress on Cancer Research and Oncology",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192990&amp;copyownerid=197694",
       "topics": [
         "general"
       ],
@@ -719,7 +659,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "0b75a8a03e02"
+      "id": "36b65474f9c7"
     },
     {
       "title": "Poultry Science 2026",
@@ -735,36 +675,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "b265f871bb94"
-    },
-    {
-      "title": "ITEI 2026",
-      "description": "WikiCFP listing. Jul 24, 2026 - Jul 26, 2026",
-      "venue": "",
-      "deadline": "2026 International Conference on Internet Technology and Educational Informatization",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195315&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "0c3fe55361eb"
-    },
-    {
-      "title": "KDD 2026",
-      "description": "WikiCFP listing. Aug 9, 2026 - Aug 13, 2026",
-      "venue": "",
-      "deadline": "32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190474&amp;copyownerid=199056",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "3940fbb0f9b6"
     },
     {
       "title": "Research Handbook on Decision Science 2026",
