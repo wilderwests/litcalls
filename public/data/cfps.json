@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-06T09:24:04.938229+00:00",
-  "total": 102,
+  "last_updated": "2026-06-07T09:58:15.555928+00:00",
+  "total": 101,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -165,21 +165,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "3a9a8113cd9b"
-    },
-    {
-      "title": "CFP Mythology Conference 2026",
-      "description": "WikiCFP listing. Mar 13, 2026 - Mar 15, 2026",
-      "venue": "",
-      "deadline": "The International Society of Mythology Seeks Presentation Submissions for the 7th Mythologium",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189967&amp;copyownerid=199066",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "aa5483796b68"
     },
     {
       "title": "fantastic",
