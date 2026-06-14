@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-13T09:55:21.879772+00:00",
-  "total": 105,
+  "last_updated": "2026-06-14T10:23:08.673617+00:00",
+  "total": 73,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -62,21 +62,6 @@
       "id": "c19b87019321"
     },
     {
-      "title": "journals and collections of essays",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "Penn CFP",
-      "impactTier": "low",
-      "impactQuartile": "Indexed",
-      "id": "1783395e083f"
-    },
-    {
       "title": "literary studies",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -90,6 +75,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "ccc434ad2a17"
+    },
+    {
+      "title": "AIS 2026",
+      "description": "WikiCFP listing. Oct 28, 2026 - Nov 1, 2026",
+      "venue": "",
+      "deadline": "Association for Interdisciplinary Studies - Translational Research and Teaching: Bridging Knowledge, Practice, and Community",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194290&amp;copyownerid=199161",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "ee2c1d66f43c"
     },
     {
       "title": "2026 SNUAC Conference on Asian Studies 2026",
@@ -165,6 +165,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "3a9a8113cd9b"
+    },
+    {
+      "title": "CEA 2026",
+      "description": "WikiCFP listing. Mar 26, 2026 - Mar 28, 2026",
+      "venue": "",
+      "deadline": "College English Association Conference",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189500&amp;copyownerid=199161",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "53ab02166be2"
     },
     {
       "title": "fantastic",
@@ -347,6 +362,21 @@
       "id": "10d7b8979515"
     },
     {
+      "title": "Big Thinking Summit | Sommet Voir Grand 2026",
+      "description": "WikiCFP listing. Jun 9, 2026 - Jun 11, 2026",
+      "venue": "",
+      "deadline": "Big Thinking Summit: Inflection Point | Sommet Voir Grand : Point d'Inflexion",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190698&amp;copyownerid=199161",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "3bb7bcfccda8"
+    },
+    {
       "title": "gender",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -390,6 +420,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "7c1ed06baf07"
+    },
+    {
+      "title": "Madrid 2026",
+      "description": "WikiCFP listing. Jun 24, 2026 - Jun 26, 2026",
+      "venue": "",
+      "deadline": "Madrid: A Focus on Pedagogy - Contemporary Teaching in a Time of Change",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191754&amp;copyownerid=199161",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "b5a9c685d674"
     },
     {
       "title": "Communism in Historical Fiction 2026",
@@ -632,21 +677,6 @@
       "id": "36b65474f9c7"
     },
     {
-      "title": "ICMLSC 2027",
-      "description": "WikiCFP listing. Jan 29, 2027 - Jan 31, 2027",
-      "venue": "",
-      "deadline": "2027 The 11th International Conference on Machine Learning and Soft Computing (ICMLSC 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199962&amp;copyownerid=13149",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "6fe4a75825b0"
-    },
-    {
       "title": "Cyber Science 2026",
       "description": "WikiCFP listing. Jun 11, 2026 - Jun 12, 2026",
       "venue": "",
@@ -662,11 +692,26 @@
       "id": "810b13923c68"
     },
     {
-      "title": "MLDS 2026",
-      "description": "WikiCFP listing. Sep 19, 2026 - Sep 20, 2026",
+      "title": "IJSEA 2026",
+      "description": "WikiCFP listing. N/A",
       "venue": "",
-      "deadline": "7th International Conference on Machine Learning Techniques and Data Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189375&amp;copyownerid=199148",
+      "deadline": "International Journal of Software Engineering & Applications - ERA Indexed, H Index 36",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194120&amp;copyownerid=199161",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "047a5d983508"
+    },
+    {
+      "title": "CAAIE 2026",
+      "description": "WikiCFP listing. Aug 5, 2026 - Aug 7, 2026",
+      "venue": "",
+      "deadline": "Conference on Advanced Artificial Intellegence and Education (CAAIE) - Springer",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191204&amp;copyownerid=199161",
       "topics": [
         "general"
       ],
@@ -674,7 +719,22 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "be9f64c575b3"
+      "id": "c90d06b51909"
+    },
+    {
+      "title": "AIMLDL 2026",
+      "description": "WikiCFP listing. Jul 16, 2026 - Jul 17, 2026",
+      "venue": "",
+      "deadline": "7th International Conference on AI, Machine Learning and Deep Learning",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199977&amp;copyownerid=320",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "17a92f9047d3"
     },
     {
       "title": "Poultry Science 2026",
@@ -930,546 +990,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "6121f9773b84"
-    },
-    {
-      "title": "Jump to navigation",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/#main-menu",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "ffc5058f0a75"
-    },
-    {
-      "title": "www.english.upenn.edu",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "http://www.english.upenn.edu",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "b1bedc5bcc87"
-    },
-    {
-      "title": "Submit a new CFP",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/submit",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "b57fbd8e3aa6"
-    },
-    {
-      "title": "http://call-for-papers.sas.upenn.edu/submit",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/submit",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "235c8d27f8d9"
-    },
-    {
-      "title": "Department of English",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "http://www.english.upenn.edu/",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "903769a41e47"
-    },
-    {
-      "title": "University of Pennsylvania",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "http://www.upenn.edu/",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "b940b31c635a"
-    },
-    {
-      "title": "cfp-help@english.upenn.edu",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/mailto:cfp-help@english.upenn.edu",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "c4aa154fd299"
-    },
-    {
-      "title": "all recent posts",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/all",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "b60f534d50be"
-    },
-    {
-      "title": "african-american",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/african-american",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "b0260907ddb7"
-    },
-    {
-      "title": "bibliography and history of the book",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/bibliography-and-history-of-the-book",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "f21bc84443c2"
-    },
-    {
-      "title": "childrens literature",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/childrens-literature",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "d4146695f4b1"
-    },
-    {
-      "title": "classical studies",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/classical-studies",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "c57f8291b5b0"
-    },
-    {
-      "title": "cultural studies and historical approaches",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "c602d36cdfec"
-    },
-    {
-      "title": "ecocriticism and environmental studies",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/ecocriticism-and-environmental-studies",
-      "topics": [
-        "ecocriticism"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "d5c3840728f1"
-    },
-    {
-      "title": "eighteenth century",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/eighteenth-century",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "84fcb1b37309"
-    },
-    {
-      "title": "english-education",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/english-education",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "03045a61cd03"
-    },
-    {
-      "title": "ethnicity and national identity",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/ethnicity-and-national-identity",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "1395ba5d4fe4"
-    },
-    {
-      "title": "fan studies and fandom",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/fan-studies-and-fandom",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "9e3defa62ea8"
-    },
-    {
-      "title": "film and television",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/film-and-television",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "4f2bf3ffa41b"
-    },
-    {
-      "title": "gender studies and sexuality",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/gender-studies-and-sexuality",
-      "topics": [
-        "gender"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "4a6e8890c529"
-    },
-    {
-      "title": "general announcements",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/general-announcements",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "263a9b398b98"
-    },
-    {
-      "title": "graduate conferences",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/graduate-conferences",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "f4d83739092a"
-    },
-    {
-      "title": "humanities computing and the internet",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/humanities-computing-and-the-internet",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "c92366440f27"
-    },
-    {
-      "title": "interdisciplinary",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/interdisciplinary",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "29f157764eff"
-    },
-    {
-      "title": "international conferences",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/international-conferences",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "c8718996cb71"
-    },
-    {
-      "title": "modernist studies",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/modernist-studies",
-      "topics": [
-        "modern-contemporary"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "133b30ebb6a1"
-    },
-    {
-      "title": "online conferences",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/online-conferences",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "189bd4b381b3"
-    },
-    {
-      "title": "popular culture",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/popular-culture",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "e18c1b025453"
-    },
-    {
-      "title": "professional topics",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/professional-topics",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "862762bf2fc7"
-    },
-    {
-      "title": "rhetoric and composition",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/rhetoric-and-composition",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "68fa32bc8842"
-    },
-    {
-      "title": "science and culture",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/science-and-culture",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "1eb25f264fa5"
-    },
-    {
-      "title": "theatre and performance studies",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/theatre-and-performance-studies",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "8d70438d1cf4"
-    },
-    {
-      "title": "translation studies",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/translation-studies",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "f1821e3c171b"
-    },
-    {
-      "title": "twentieth century and beyond",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/twentieth-century-and-beyond",
-      "topics": [
-        "modern-contemporary"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "db07e0e9f8d6"
-    },
-    {
-      "title": "veterans studies",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/veterans-studies",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "6fc01ff78883"
-    },
-    {
-      "title": "world literatures and indigenous studies",
-      "description": "Listed on the University of Pennsylvania CFP site.",
-      "venue": "Penn CFP",
-      "deadline": null,
-      "url": "https://call-for-papers.sas.upenn.edu/category/world-literatures-and-indigenous-studies",
-      "topics": [
-        "postcolonial"
-      ],
-      "pubType": "unknown",
-      "source": "Penn CFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "91f3002b5133"
     },
     {
       "title": "Skip to main content",
