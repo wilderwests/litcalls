@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T10:07:21.851480+00:00",
-  "total": 103,
+  "last_updated": "2026-06-21T10:27:35.523433+00:00",
+  "total": 108,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -332,6 +332,21 @@
       "id": "a506f152b627"
     },
     {
+      "title": "IDFC 2026",
+      "description": "WikiCFP listing. Sep 1, 2026 - Sep 4, 2026",
+      "venue": "",
+      "deadline": "The International Conference on Intelligent Digital Forensics and Cybersecurity",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194896&amp;copyownerid=199243",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "21b802d1e056"
+    },
+    {
       "title": "Digital Futures Indigenous Languages 2026",
       "description": "WikiCFP listing. Jan 1, 2026 - Feb 10, 2026",
       "venue": "",
@@ -420,6 +435,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "75d4e448011c"
+    },
+    {
+      "title": "Track E at SSS 2026",
+      "description": "WikiCFP listing. Oct 9, 2026 - Oct 11, 2026",
+      "venue": "",
+      "deadline": "Real-World Distributed Systems and Operational Challenges",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199469&amp;copyownerid=199243",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "d41dbb63e2eb"
     },
     {
       "title": "World Quantum Festival 2026",
@@ -632,6 +662,21 @@
       "id": "1069dd2e2dee"
     },
     {
+      "title": "Cancer Science 2026",
+      "description": "WikiCFP listing. Nov 23, 2026 - Nov 24, 2026",
+      "venue": "",
+      "deadline": "8th World Congress on Cancer Research and Oncology",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192990&amp;copyownerid=197694",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "36b65474f9c7"
+    },
+    {
       "title": "Cyber Science 2026",
       "description": "WikiCFP listing. Jun 11, 2026 - Jun 12, 2026",
       "venue": "",
@@ -647,11 +692,11 @@
       "id": "810b13923c68"
     },
     {
-      "title": "Cancer Science 2026",
-      "description": "WikiCFP listing. Nov 23, 2026 - Nov 24, 2026",
+      "title": "ACM--Singapore-CDICS 2026",
+      "description": "WikiCFP listing. Nov 27, 2026 - Nov 29, 2026",
       "venue": "",
-      "deadline": "8th World Congress on Cancer Research and Oncology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192990&amp;copyownerid=197694",
+      "deadline": "2026 4th International Conference on Data, Information and Computing Science (CDICS 2026)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195015&amp;copyownerid=176785",
       "topics": [
         "general"
       ],
@@ -659,7 +704,37 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "36b65474f9c7"
+      "id": "eb2a790c4eb0"
+    },
+    {
+      "title": "FOSAD 2026",
+      "description": "WikiCFP listing. Aug 24, 2026 - Aug 28, 2026",
+      "venue": "",
+      "deadline": "25th Summerschool on Foundations of Security Analysis and Design",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=193034&amp;copyownerid=199243",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "44588619e890"
+    },
+    {
+      "title": "ANUBIS 2026",
+      "description": "WikiCFP listing. Sep 18, 2026 - Sep 18, 2026",
+      "venue": "",
+      "deadline": "Assessment with New methodologies, Unified Benchmarks, and environments, of Intrusion detection and response Systems",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195174&amp;copyownerid=199243",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "0b75a8a03e02"
     },
     {
       "title": "Poultry Science 2026",
