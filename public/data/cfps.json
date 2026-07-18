@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T09:06:31.780438+00:00",
-  "total": 109,
+  "last_updated": "2026-07-18T08:46:52.242791+00:00",
+  "total": 108,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -90,6 +90,36 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "ccc434ad2a17"
+    },
+    {
+      "title": "NeMLA 2027",
+      "description": "WikiCFP listing. Mar 6, 2027 - Mar 9, 2027",
+      "venue": "",
+      "deadline": "Gendered Mobilities: Migration, Community and Belonging in World Literature",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201404&amp;copyownerid=199212",
+      "topics": [
+        "postcolonial"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "eeb90b32a8c9"
+    },
+    {
+      "title": "SAMLA 2026",
+      "description": "WikiCFP listing. Nov 5, 2026 - Nov 7, 2026",
+      "venue": "",
+      "deadline": "The AI Knowledge Society: Mapping Digital Hospitality and Hostility",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201403&amp;copyownerid=199212",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "1702fbeb1482"
     },
     {
       "title": "2026 SNUAC Conference on Asian Studies 2026",
@@ -677,21 +707,6 @@
       "id": "1069dd2e2dee"
     },
     {
-      "title": "RoboCom 2027",
-      "description": "WikiCFP listing. Jan 9, 2027 - Jan 12, 2027",
-      "venue": "",
-      "deadline": "International Workshop on Communication and Networking for Swarms Robotics",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201383&amp;copyownerid=185841",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "a7dfc0606e62"
-    },
-    {
       "title": "Cancer Science 2026",
       "description": "WikiCFP listing. Nov 23, 2026 - Nov 24, 2026",
       "venue": "",
@@ -705,36 +720,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "BDCAT 2026",
-      "description": "WikiCFP listing. Dec 1, 2026 - Dec 4, 2026",
-      "venue": "",
-      "deadline": "13th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201154&amp;copyownerid=195879",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "2ebcedd8ca0f"
-    },
-    {
-      "title": "IEEE ASIP 2026",
-      "description": "WikiCFP listing. Dec 18, 2026 - Dec 20, 2026",
-      "venue": "",
-      "deadline": "IEEE--2026 8th Asia Symposium on Image Processing (ASIP 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194211&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "6e7d7b5f52ce"
     },
     {
       "title": "Poultry Science 2026",
