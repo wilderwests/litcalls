@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T09:19:30.504531+00:00",
-  "total": 109,
+  "last_updated": "2026-07-25T08:58:58.038158+00:00",
+  "total": 107,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -90,6 +90,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "ccc434ad2a17"
+    },
+    {
+      "title": "Memory, Trauma & Recovery 2026",
+      "description": "WikiCFP listing. Sep 24, 2026 - Sep 25, 2026",
+      "venue": "",
+      "deadline": "MEMORY, TRAUMA AND RECOVERY - 7th International Interdisciplinary Conference",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=109944&amp;copyownerid=199667",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "428ddf2c3cf0"
     },
     {
       "title": "2026 SNUAC Conference on Asian Studies 2026",
@@ -332,21 +347,6 @@
       "id": "a506f152b627"
     },
     {
-      "title": "Cyberfare State and Digital Governance 2026",
-      "description": "WikiCFP listing. Nov 18, 2026 - Nov 18, 2026",
-      "venue": "",
-      "deadline": "Cyberfare State and Digital Governance: Security, Control and Resilience in the Digital Age",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201128&amp;copyownerid=199419",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "8dc2e1a2832e"
-    },
-    {
       "title": "Digital Futures Indigenous Languages 2026",
       "description": "WikiCFP listing. Jan 1, 2026 - Feb 10, 2026",
       "venue": "",
@@ -362,11 +362,11 @@
       "id": "50495f45c525"
     },
     {
-      "title": "DTSSB 2026",
-      "description": "WikiCFP listing. Oct 7, 2026 - Oct 7, 2026",
+      "title": "Cyberfare State and Digital Governance 2026",
+      "description": "WikiCFP listing. Nov 18, 2026 - Nov 18, 2026",
       "venue": "",
-      "deadline": "2nd International Workshop on Digital Technologies for Smart and Sustainable Buildings",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195152&amp;copyownerid=182974",
+      "deadline": "Cyberfare State and Digital Governance: Security, Control and Resilience in the Digital Age",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201128&amp;copyownerid=199419",
       "topics": [
         "general"
       ],
@@ -374,7 +374,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "7460dc5b3ffc"
+      "id": "8dc2e1a2832e"
     },
     {
       "title": "Digital Culture & Society 2026",
@@ -705,36 +705,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "CCSB 2026",
-      "description": "WikiCFP listing. Aug 21, 2026 - Aug 23, 2026",
-      "venue": "",
-      "deadline": "IEEE 2026 6th International Conference on Computer Science and Blockchain",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199867&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "0d8b99ba621e"
-    },
-    {
-      "title": "ICCRD 2027",
-      "description": "WikiCFP listing. Jan 15, 2027 - Jan 17, 2027",
-      "venue": "",
-      "deadline": "ACM--2027 19th International Conference on Computer Research and Development (ICCRD 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194959&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "2f22e715c068"
     },
     {
       "title": "Poultry Science 2026",
