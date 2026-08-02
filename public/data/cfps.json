@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T09:04:20.693161+00:00",
-  "total": 111,
+  "last_updated": "2026-08-02T09:06:57.386766+00:00",
+  "total": 107,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -587,21 +587,6 @@
       "id": "f280cf7315ef"
     },
     {
-      "title": "GISTAM 2027",
-      "description": "WikiCFP listing. Apr 20, 2027 - Apr 22, 2027",
-      "venue": "",
-      "deadline": "13th International Conference on Geographical Information Systems Theory, Applications and Management",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201734&amp;copyownerid=45217",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "102a8829e9c7"
-    },
-    {
       "title": "french",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -662,11 +647,11 @@
       "id": "5641b1121c44"
     },
     {
-      "title": "ICEIS 2027",
-      "description": "WikiCFP listing. Apr 20, 2027 - Apr 22, 2027",
+      "title": "CIBDA 2027",
+      "description": "WikiCFP listing. Mar 19, 2027 - Mar 21, 2027",
       "venue": "",
-      "deadline": "29th International Conference on Enterprise Information Systems",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201735&amp;copyownerid=45217",
+      "deadline": "8th International Conference on Computer Information and Big Data Applications",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201758&amp;copyownerid=13149",
       "topics": [
         "general"
       ],
@@ -674,52 +659,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "4356f2b9af9b"
-    },
-    {
-      "title": "CSEDU 2027",
-      "description": "WikiCFP listing. Apr 16, 2027 - Apr 18, 2027",
-      "venue": "",
-      "deadline": "19th International Conference on Computer Supported Education",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201736&amp;copyownerid=45217",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "388d3cf9ff36"
-    },
-    {
-      "title": "ENASE 2027",
-      "description": "WikiCFP listing. Apr 20, 2027 - Apr 22, 2027",
-      "venue": "",
-      "deadline": "22nd International Conference on Evaluation of Novel Approaches to Software Engineering",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201738&amp;copyownerid=45217",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "d5edb96fda18"
-    },
-    {
-      "title": "CLOSER 2027",
-      "description": "WikiCFP listing. Apr 17, 2027 - Apr 19, 2027",
-      "venue": "",
-      "deadline": "17th International Conference on Cloud Computing and Services Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201741&amp;copyownerid=45217",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "f4930a04f7ba"
+      "id": "3283e8fc3bec"
     },
     {
       "title": "Science & Religion Forum 2026",
