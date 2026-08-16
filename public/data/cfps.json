@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T07:27:16.590965+00:00",
-  "total": 110,
+  "last_updated": "2026-08-16T07:28:20.313213+00:00",
+  "total": 107,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -467,36 +467,6 @@
       "id": "75d4e448011c"
     },
     {
-      "title": "WCMEIM 2026",
-      "description": "WikiCFP listing. Sep 18, 2026 - Sep 20, 2026",
-      "venue": "",
-      "deadline": "2026 9th World Conference on Mechanical Engineering and Intelligent Manufacturing",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201278&amp;copyownerid=199980",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "2ebcfd10807b"
-    },
-    {
-      "title": "IEEE WAAE 2026",
-      "description": "WikiCFP listing. Nov 27, 2026 - Nov 29, 2026",
-      "venue": "",
-      "deadline": "IEEE--2026 World Conference on Aeronautics and Aerospace Engineering (WAAE 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194145&amp;copyownerid=199980",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "e5f1d1876f79"
-    },
-    {
       "title": "World Quantum Festival 2026",
       "description": "WikiCFP listing. Nov 17, 2026 - Nov 18, 2026",
       "venue": "",
@@ -720,21 +690,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "IEEE ICCSSE 2026",
-      "description": "WikiCFP listing. Oct 23, 2026 - Oct 25, 2026",
-      "venue": "",
-      "deadline": "2026 IEEE 12th International Conference on Control Science and Systems Engineering (ICCSSE 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191781&amp;copyownerid=199980",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "3f3e947b1658"
     },
     {
       "title": "Poultry Science 2026",
