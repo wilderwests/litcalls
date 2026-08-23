@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-22T07:29:00.770508+00:00",
-  "total": 114,
+  "last_updated": "2026-08-23T07:30:41.432796+00:00",
+  "total": 110,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -105,21 +105,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "ccc434ad2a17"
-    },
-    {
-      "title": "IJMVSC 2026",
-      "description": "WikiCFP listing. N/A",
-      "venue": "",
-      "deadline": "The International Journal of Managing Value and Supply Chains",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194196&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "66b825cf716b"
     },
     {
       "title": "2026 SNUAC Conference on Asian Studies 2026",
@@ -632,36 +617,6 @@
       "id": "f280cf7315ef"
     },
     {
-      "title": "GRAPH-HOC 2026",
-      "description": "WikiCFP listing. N/A",
-      "venue": "",
-      "deadline": "International Journal on Applications of Graph Theory in Wireless Ad hoc Networks and Sensor Networks",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192768&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "b057a988e9ae"
-    },
-    {
-      "title": "IJGTT 2026",
-      "description": "WikiCFP listing. N/A",
-      "venue": "",
-      "deadline": "International Journal of Game Theory and Technology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199977&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "4039249cfd30"
-    },
-    {
       "title": "french",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -722,6 +677,21 @@
       "id": "5641b1121c44"
     },
     {
+      "title": "INCISCOS 2026",
+      "description": "WikiCFP listing. Nov 18, 2026 - Nov 20, 2026",
+      "venue": "",
+      "deadline": "5th International Conference on Computer Science and Information Systems",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202810&amp;copyownerid=13149",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "0974664fa80b"
+    },
+    {
       "title": "Science & Religion Forum 2026",
       "description": "WikiCFP listing. Sep 1, 2026 - Sep 30, 2026",
       "venue": "",
@@ -750,36 +720,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "ECIJ 2026",
-      "description": "WikiCFP listing. N/A",
-      "venue": "",
-      "deadline": "Electrical & Computer Engineering: An International Journal",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189740&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "c98279b0d9db"
-    },
-    {
-      "title": "WiMo 2026",
-      "description": "WikiCFP listing. Oct 24, 2026 - Oct 25, 2026",
-      "venue": "",
-      "deadline": "18th International Conference on Wireless & Mobile Network",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191584&amp;copyownerid=46167",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "54004e59f34b"
     },
     {
       "title": "Poultry Science 2026",
