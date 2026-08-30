@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-29T12:57:10.423168+00:00",
-  "total": 111,
+  "last_updated": "2026-08-30T12:35:23.610783+00:00",
+  "total": 110,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -377,6 +377,21 @@
       "id": "a506f152b627"
     },
     {
+      "title": "ICCVDA 2026",
+      "description": "WikiCFP listing. Dec 4, 2026 - Dec 6, 2026",
+      "venue": "",
+      "deadline": "2026 2nd International Conference on Computer Vision and Digital Art",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202910&amp;copyownerid=200193",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "b3db46966aec"
+    },
+    {
       "title": "Digital Culture & Society 2026",
       "description": "WikiCFP listing. Jun 10, 2026 - Jul 15, 2026",
       "venue": "",
@@ -662,6 +677,21 @@
       "id": "5641b1121c44"
     },
     {
+      "title": "AMLDS 2027",
+      "description": "WikiCFP listing. Jul 16, 2027 - Jul 19, 2026",
+      "venue": "",
+      "deadline": "IEEE--2027 3rd International Conference on Advanced Machine Learning and Data Science",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180065&amp;copyownerid=186741",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "c6743052007b"
+    },
+    {
       "title": "Science & Religion Forum 2026",
       "description": "WikiCFP listing. Sep 1, 2026 - Sep 30, 2026",
       "venue": "",
@@ -690,51 +720,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "ICSSIET 2026",
-      "description": "WikiCFP listing. Sep 26, 2026 - Sep 27, 2026",
-      "venue": "",
-      "deadline": "7 th International Congress of Social Science, Innovation and Educational Technologies (ICSSIET 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202941&amp;copyownerid=172118",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "d0904d3f49d3"
-    },
-    {
-      "title": "IJMA 2026",
-      "description": "WikiCFP listing. N/A",
-      "venue": "",
-      "deadline": "International Journal of Multimedia & Its Applications -- ERA Indexed, H index - 24",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200174&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "876f296ba9c0"
-    },
-    {
-      "title": "NLAI 2026",
-      "description": "WikiCFP listing. Sep 19, 2026 - Sep 20, 2026",
-      "venue": "",
-      "deadline": "7th International Conference on NLP & Artificial Intelligence Techniques",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202479&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "62fd90923c1d"
     },
     {
       "title": "Poultry Science 2026",
