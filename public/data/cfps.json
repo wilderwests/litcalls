@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T11:55:07.378194+00:00",
-  "total": 112,
+  "last_updated": "2026-09-04T11:57:47.676711+00:00",
+  "total": 113,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -347,6 +347,21 @@
       "id": "e0e1d64fdac4"
     },
     {
+      "title": "CAAIE 2027",
+      "description": "WikiCFP listing. Jul 5, 2027 - Jul 7, 2027",
+      "venue": "",
+      "deadline": "7th Conference on Advanced Artificial Intelligence and Education",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191205&amp;copyownerid=196282",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "d36466512068"
+    },
+    {
       "title": "Cyberfare State and Digital Governance 2026",
       "description": "WikiCFP listing. Nov 18, 2026 - Nov 18, 2026",
       "venue": "",
@@ -662,11 +677,11 @@
       "id": "5641b1121c44"
     },
     {
-      "title": "ICAIIT 2027",
-      "description": "WikiCFP listing. Mar 11, 2027 - Mar 11, 2027",
+      "title": "ICITA 2027",
+      "description": "WikiCFP listing. Oct 18, 2027 - Oct 20, 2027",
       "venue": "",
-      "deadline": "International Conference on Applied Innovations in IT (ICAIIT)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202996&amp;copyownerid=199221",
+      "deadline": "ICITA 2027: 22th International Conference on Information Technology and Applications",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188646&amp;copyownerid=49144",
       "topics": [
         "general"
       ],
@@ -674,7 +689,22 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "44261d576f0a"
+      "id": "5aa894da18c8"
+    },
+    {
+      "title": "ICISPP 2027",
+      "description": "WikiCFP listing. Jul 16, 2027 - Jul 18, 2027",
+      "venue": "",
+      "deadline": "IEEE--2027 8th International Conference on Information Security and Privacy Protection (ICISPP 2027)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203041&amp;copyownerid=13881",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "82a59c8210b5"
     },
     {
       "title": "Science & Religion Forum 2026",
@@ -707,11 +737,11 @@
       "id": "36b65474f9c7"
     },
     {
-      "title": "IEEE ICMSS 2027",
-      "description": "WikiCFP listing. Mar 19, 2027 - Mar 21, 2027",
+      "title": "ICCFN 2026",
+      "description": "WikiCFP listing. Nov 25, 2026 - Nov 26, 2026",
       "venue": "",
-      "deadline": "IEEE--2027 the 11th International Conference on Management Engineering, Software Engineering and Service Sciences (ICMSS 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200258&amp;copyownerid=13881",
+      "deadline": "International Conference on Cybertechnology and Future Networks",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202820&amp;copyownerid=200091",
       "topics": [
         "general"
       ],
@@ -719,37 +749,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "1366fdf819fb"
-    },
-    {
-      "title": "ICAIT 2026",
-      "description": "WikiCFP listing. Nov 23, 2026 - Nov 27, 2026",
-      "venue": "",
-      "deadline": "IEEE--2026 18th International Conference on Advanced Infocomm Technology (ICAIT 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191784&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "6f115b6f886f"
-    },
-    {
-      "title": "XR4CE 2026",
-      "description": "WikiCFP listing. Nov 3, 2026 - Nov 3, 2026",
-      "venue": "",
-      "deadline": "2nd International Workshop on XR for Challenging Environments",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203011&amp;copyownerid=71641",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "02d499b9dc0e"
+      "id": "84212ed167bd"
     },
     {
       "title": "Poultry Science 2026",
@@ -795,6 +795,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "99aea99743fe"
+    },
+    {
+      "title": "Computing 2027",
+      "description": "WikiCFP listing. Jul 8, 2027 - Jul 9, 2027",
+      "venue": "",
+      "deadline": "15th Computing Conference 2027",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203033&amp;copyownerid=44941",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "c654506ef25b"
     },
     {
       "title": "call",
