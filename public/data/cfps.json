@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T11:57:47.676711+00:00",
-  "total": 113,
+  "last_updated": "2026-09-05T11:07:30.511392+00:00",
+  "total": 109,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -135,6 +135,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "e4f38b144023"
+    },
+    {
+      "title": "Cultural Patrimony 2026",
+      "description": "WikiCFP listing. Nov 12, 2026 - Nov 15, 2026",
+      "venue": "",
+      "deadline": "Cultural Patrimony in Wartime: Destruction, Protection, and the Question of Ruling Classes",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195443&amp;copyownerid=200277",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "c1589affe150"
     },
     {
       "title": "Anticolonial Platform Studies 2026",
@@ -345,21 +360,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "e0e1d64fdac4"
-    },
-    {
-      "title": "CAAIE 2027",
-      "description": "WikiCFP listing. Jul 5, 2027 - Jul 7, 2027",
-      "venue": "",
-      "deadline": "7th Conference on Advanced Artificial Intelligence and Education",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191205&amp;copyownerid=196282",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "d36466512068"
     },
     {
       "title": "Cyberfare State and Digital Governance 2026",
@@ -677,36 +677,6 @@
       "id": "5641b1121c44"
     },
     {
-      "title": "ICITA 2027",
-      "description": "WikiCFP listing. Oct 18, 2027 - Oct 20, 2027",
-      "venue": "",
-      "deadline": "ICITA 2027: 22th International Conference on Information Technology and Applications",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188646&amp;copyownerid=49144",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "5aa894da18c8"
-    },
-    {
-      "title": "ICISPP 2027",
-      "description": "WikiCFP listing. Jul 16, 2027 - Jul 18, 2027",
-      "venue": "",
-      "deadline": "IEEE--2027 8th International Conference on Information Security and Privacy Protection (ICISPP 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203041&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "82a59c8210b5"
-    },
-    {
       "title": "Science & Religion Forum 2026",
       "description": "WikiCFP listing. Sep 1, 2026 - Sep 30, 2026",
       "venue": "",
@@ -735,21 +705,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "ICCFN 2026",
-      "description": "WikiCFP listing. Nov 25, 2026 - Nov 26, 2026",
-      "venue": "",
-      "deadline": "International Conference on Cybertechnology and Future Networks",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202820&amp;copyownerid=200091",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "84212ed167bd"
     },
     {
       "title": "Poultry Science 2026",
@@ -795,21 +750,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "99aea99743fe"
-    },
-    {
-      "title": "Computing 2027",
-      "description": "WikiCFP listing. Jul 8, 2027 - Jul 9, 2027",
-      "venue": "",
-      "deadline": "15th Computing Conference 2027",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203033&amp;copyownerid=44941",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "c654506ef25b"
     },
     {
       "title": "call",
