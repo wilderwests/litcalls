@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-05T11:07:30.511392+00:00",
-  "total": 109,
+  "last_updated": "2026-09-06T11:30:18.947442+00:00",
+  "total": 110,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -135,21 +135,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "e4f38b144023"
-    },
-    {
-      "title": "Cultural Patrimony 2026",
-      "description": "WikiCFP listing. Nov 12, 2026 - Nov 15, 2026",
-      "venue": "",
-      "deadline": "Cultural Patrimony in Wartime: Destruction, Protection, and the Question of Ruling Classes",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195443&amp;copyownerid=200277",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "c1589affe150"
     },
     {
       "title": "Anticolonial Platform Studies 2026",
@@ -705,6 +690,36 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
+    },
+    {
+      "title": "NLAI 2026",
+      "description": "WikiCFP listing. Sep 19, 2026 - Sep 20, 2026",
+      "venue": "",
+      "deadline": "7th International Conference on NLP & Artificial Intelligence Techniques",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202479&amp;copyownerid=320",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "62fd90923c1d"
+    },
+    {
+      "title": "AIAA 2026",
+      "description": "WikiCFP listing. Nov 27, 2026 - Nov 28, 2026",
+      "venue": "",
+      "deadline": "16th International Conference on Artificial Intelligence, Soft Computing and Applications",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202738&amp;copyownerid=320",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "3f365abb2431"
     },
     {
       "title": "Poultry Science 2026",
