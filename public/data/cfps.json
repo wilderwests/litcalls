@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-12T11:27:22.473722+00:00",
-  "total": 109,
+  "last_updated": "2026-09-13T12:31:46.609296+00:00",
+  "total": 110,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -362,11 +362,11 @@
       "id": "8dc2e1a2832e"
     },
     {
-      "title": "DTISO 2026",
-      "description": "WikiCFP listing. Nov 17, 2026 - Nov 20, 2026",
+      "title": "IEEE DSpaCES 2026",
+      "description": "WikiCFP listing. Dec 14, 2026 - Dec 14, 2026",
       "venue": "",
-      "deadline": "The International Conference on Digital Transformation and Intelligent SOciety",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195207&amp;copyownerid=196813",
+      "deadline": "4th IEEE International Workshop on Dataspaces and Digital Twins for Critical Entities and Smart Urban Communities",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203195&amp;copyownerid=192527",
       "topics": [
         "general"
       ],
@@ -374,7 +374,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "b17becf767cf"
+      "id": "860362925748"
     },
     {
       "title": "Post-digital Democracies 2026",
@@ -675,6 +675,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "5641b1121c44"
+    },
+    {
+      "title": "IFAC INCOM SIMCA 2027",
+      "description": "WikiCFP listing. Jun 28, 2027 - Jun 30, 2027",
+      "venue": "",
+      "deadline": "IFAC INCOM SIMCA 2027 : SYSTEM IDENTIFICATION for MANUFACTURING CONTROL APPLICATIONS",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203196&amp;copyownerid=12192",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "113f569fc12e"
     },
     {
       "title": "Science & Religion Forum 2026",
