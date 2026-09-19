@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T12:03:46.769670+00:00",
-  "total": 109,
+  "last_updated": "2026-09-19T11:46:21.071734+00:00",
+  "total": 108,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -660,21 +660,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "5641b1121c44"
-    },
-    {
-      "title": "MMLDS 2026",
-      "description": "WikiCFP listing. Oct 30, 2026 - Nov 1, 2026",
-      "venue": "",
-      "deadline": "2026 International Conference on Multimodality, Machine Learning and Data Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190543&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "704473985a04"
     },
     {
       "title": "Science & Religion Forum 2026",
