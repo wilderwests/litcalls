@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-26T12:02:31.156610+00:00",
-  "total": 108,
+  "last_updated": "2026-09-27T12:44:08.986032+00:00",
+  "total": 109,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -555,6 +555,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "2836a51d5f8a"
+    },
+    {
+      "title": "NAACL 2027",
+      "description": "WikiCFP listing. Jun 1, 2027 - Jun 5, 2027",
+      "venue": "",
+      "deadline": "The 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202808&amp;copyownerid=200568",
+      "topics": [
+        "digital"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "969844be0ac7"
     },
     {
       "title": "Call for Book Chapters 2026",
