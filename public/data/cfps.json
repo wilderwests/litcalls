@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T13:33:03.231576+00:00",
-  "total": 113,
+  "last_updated": "2026-10-03T12:13:12.553913+00:00",
+  "total": 108,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -407,21 +407,6 @@
       "id": "50495f45c525"
     },
     {
-      "title": "DIGITAL 2026",
-      "description": "WikiCFP listing. Jul 5, 2026 - Jul 9, 2026",
-      "venue": "",
-      "deadline": "Advances on Societal Digital Transformation",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190207&amp;copyownerid=83510",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "10d7b8979515"
-    },
-    {
       "title": "gender",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -510,6 +495,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "cdde2d301a92"
+    },
+    {
+      "title": "PSSW 2027",
+      "description": "WikiCFP listing. Mar 3, 2027 - Mar 4, 2027",
+      "venue": "",
+      "deadline": "Pharma Supply Chain & Security World 2027 Conference",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203543&amp;copyownerid=182294",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "40704c2baa44"
     },
     {
       "title": "Queer AI 2026",
@@ -602,36 +602,6 @@
       "id": "f280cf7315ef"
     },
     {
-      "title": "VISAPP 2027",
-      "description": "WikiCFP listing. Feb 26, 2027 - Feb 28, 2027",
-      "venue": "",
-      "deadline": "22nd International Conference on Computer Vision Theory and Applications",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200096&amp;copyownerid=45217",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "d8a5820e5227"
-    },
-    {
-      "title": "GRIVAPP 2027",
-      "description": "WikiCFP listing. Feb 26, 2027 - Feb 28, 2027",
-      "venue": "",
-      "deadline": "22nd International Conference on Computer Graphics, Interaction and Visualization Theory and Applications",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200100&amp;copyownerid=45217",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "f7941cfe68ce"
-    },
-    {
       "title": "french",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -692,36 +662,6 @@
       "id": "5641b1121c44"
     },
     {
-      "title": "PAKDD 2027",
-      "description": "WikiCFP listing. Jun 29, 2027 - Jul 2, 2027",
-      "venue": "",
-      "deadline": "31st Pacific-Asia Conference on Knowledge Discovery and Data Mining",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203483&amp;copyownerid=14805",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "919ca10da4e2"
-    },
-    {
-      "title": "SBiND 2027",
-      "description": "WikiCFP listing. May 17, 2027 - May 17, 2027",
-      "venue": "",
-      "deadline": "IEEE International Workshop on Speech Biomarkers for Neurodegenerative Diseases",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203536&amp;copyownerid=71031",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "2c7473ff3e2f"
-    },
-    {
       "title": "Science & Religion Forum 2026",
       "description": "WikiCFP listing. Sep 1, 2026 - Sep 30, 2026",
       "venue": "",
@@ -750,21 +690,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "MODELSWARD 2027",
-      "description": "WikiCFP listing. Feb 19, 2027 - Feb 21, 2027",
-      "venue": "",
-      "deadline": "15th International Conference on Model-Based Software and Systems Engineering",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200098&amp;copyownerid=45217",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "73bd0f67b477"
     },
     {
       "title": "Poultry Science 2026",
