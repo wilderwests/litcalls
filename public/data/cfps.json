@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T12:13:12.553913+00:00",
-  "total": 108,
+  "last_updated": "2026-10-04T13:02:01.641741+00:00",
+  "total": 109,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -467,6 +467,21 @@
       "id": "75d4e448011c"
     },
     {
+      "title": "AICONUSA 2027",
+      "description": "WikiCFP listing. Jun 6, 2027 - Jun 11, 2027",
+      "venue": "",
+      "deadline": "AI Con USA 2027",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202524&amp;copyownerid=200631",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "fea622e6245c"
+    },
+    {
       "title": "World Quantum Festival 2026",
       "description": "WikiCFP listing. Nov 17, 2026 - Nov 18, 2026",
       "venue": "",
@@ -495,21 +510,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "cdde2d301a92"
-    },
-    {
-      "title": "PSSW 2027",
-      "description": "WikiCFP listing. Mar 3, 2027 - Mar 4, 2027",
-      "venue": "",
-      "deadline": "Pharma Supply Chain & Security World 2027 Conference",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203543&amp;copyownerid=182294",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "40704c2baa44"
     },
     {
       "title": "Queer AI 2026",
@@ -675,6 +675,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "1069dd2e2dee"
+    },
+    {
+      "title": "SEMTEC 2026",
+      "description": "WikiCFP listing. Oct 30, 2026 - Oct 31, 2026",
+      "venue": "",
+      "deadline": "4th International Conference on Semantic Technology",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199836&amp;copyownerid=4772",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "c1f6cee0d3e9"
     },
     {
       "title": "Cancer Science 2026",
