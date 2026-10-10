@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T14:07:00.356012+00:00",
+  "last_updated": "2026-10-10T13:16:32.761664+00:00",
   "total": 110,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
@@ -377,6 +377,21 @@
       "id": "a506f152b627"
     },
     {
+      "title": "ESSC 2026",
+      "description": "WikiCFP listing. Dec 4, 2026 - Dec 6, 2026",
+      "venue": "",
+      "deadline": "2026 5th International Conference on Educational Science and Social Culture",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203666&amp;copyownerid=163220",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "813dc3511a31"
+    },
+    {
       "title": "Digital Culture & Society 2026",
       "description": "WikiCFP listing. Jun 10, 2026 - Jul 15, 2026",
       "venue": "",
@@ -467,21 +482,6 @@
       "id": "75d4e448011c"
     },
     {
-      "title": "WCE 2027",
-      "description": "WikiCFP listing. Aug 23, 2027 - Aug 25, 2027",
-      "venue": "",
-      "deadline": "14th World Congress on Education",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203663&amp;copyownerid=18301",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "e21cdfbc204f"
-    },
-    {
       "title": "World Quantum Festival 2026",
       "description": "WikiCFP listing. Nov 17, 2026 - Nov 18, 2026",
       "venue": "",
@@ -555,6 +555,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "2836a51d5f8a"
+    },
+    {
+      "title": "NAACL 2027",
+      "description": "WikiCFP listing. Jun 1, 2027 - Jun 5, 2027",
+      "venue": "",
+      "deadline": "The 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202808&amp;copyownerid=200689",
+      "topics": [
+        "digital"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "969844be0ac7"
     },
     {
       "title": "Call for Book Chapters 2026",
@@ -662,11 +677,11 @@
       "id": "5641b1121c44"
     },
     {
-      "title": "I4CS 2027",
-      "description": "WikiCFP listing. Jun 14, 2027 - Jun 14, 2027",
+      "title": "ICNST 2027",
+      "description": "WikiCFP listing. Jul 13, 2027 - Jul 16, 2027",
       "venue": "",
-      "deadline": "27th International Conference on Innovations for Community Services 2027",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203659&amp;copyownerid=2531",
+      "deadline": "2027 the 10th International Conference on Nanoscience and Technology (ICNST 2027)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203672&amp;copyownerid=13881",
       "topics": [
         "general"
       ],
@@ -674,22 +689,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "f20d13e50575"
-    },
-    {
-      "title": "MSIEID 2026",
-      "description": "WikiCFP listing. Dec 1, 2026 - Dec 3, 2026",
-      "venue": "",
-      "deadline": "2026 8th Management Science Informatization and Economic Innovation Development Conference",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203662&amp;copyownerid=163220",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "dbd749dc1572"
+      "id": "c46dd68b57d1"
     },
     {
       "title": "Science & Religion Forum 2026",
@@ -720,21 +720,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "ACM--Singapore-CDICS 2026",
-      "description": "WikiCFP listing. Nov 27, 2026 - Nov 29, 2026",
-      "venue": "",
-      "deadline": "2026 4th International Conference on Data, Information and Computing Science (CDICS 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195015&amp;copyownerid=55752",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "eb2a790c4eb0"
     },
     {
       "title": "Poultry Science 2026",
@@ -795,6 +780,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "4d4b2db302a8"
+    },
+    {
+      "title": "NAACL-SRW 2027",
+      "description": "WikiCFP listing. Jun 1, 2027 - Jun 5, 2027",
+      "venue": "",
+      "deadline": "NAACL 2027 Student Research Workshop: Call for Papers and Mentors",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203342&amp;copyownerid=200689",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "c3dffe30da91"
     },
     {
       "title": "Call for Papers 2026",
