@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T16:28:45.782033+00:00",
-  "total": 147,
+  "last_updated": "2026-10-13T14:47:06.375570+00:00",
+  "total": 125,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -107,6 +107,21 @@
       "id": "ccc434ad2a17"
     },
     {
+      "title": "IJMVSC 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "The International Journal of Managing Value and Supply Chains",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194196&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "66b825cf716b"
+    },
+    {
       "title": "2026 SNUAC Conference on Asian Studies 2026",
       "description": "WikiCFP listing. Oct 26, 2026 - Oct 29, 2026",
       "venue": "",
@@ -165,21 +180,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "8062b9e88cf2"
-    },
-    {
-      "title": "JBR CFP 2027",
-      "description": "WikiCFP listing. N/A",
-      "venue": "",
-      "deadline": "Call for Graduate Student Essays: Teaching Baldwin, Baldwin as Teacher",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203695&amp;copyownerid=200245",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "fbf6846cb19f"
     },
     {
       "title": "CFP Literature - Wine 2027",
@@ -362,26 +362,11 @@
       "id": "e0e1d64fdac4"
     },
     {
-      "title": "IJIST 2026",
-      "description": "WikiCFP listing. N/A",
+      "title": "AISED 2027",
+      "description": "WikiCFP listing. Nov 14, 2027 - Nov 18, 2027",
       "venue": "",
-      "deadline": "International Journal of Information Sciences and Techniques",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194649&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "da4844390edd"
-    },
-    {
-      "title": "Ei/Scopus-CDIVP 2027",
-      "description": "WikiCFP listing. Mar 26, 2027 - Mar 28, 2027",
-      "venue": "",
-      "deadline": "2027 7th International Conference on Digital Image and Video Processing (CDIVP 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187728&amp;copyownerid=165700",
+      "deadline": "The Third International Conference on AI-based Software Engineering for Digital Services",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203606&amp;copyownerid=176795",
       "topics": [
         "general"
       ],
@@ -389,7 +374,37 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "035cf6b618d1"
+      "id": "e8d22cb884ab"
+    },
+    {
+      "title": "FSOFT 2027",
+      "description": "WikiCFP listing. Jun 13, 2027 - Jun 17, 2027",
+      "venue": "",
+      "deadline": "The Second International Conference on Software Lifecycle using Digital and Artificial Intelligence Paradigms",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203598&amp;copyownerid=193627",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "c6a7e8666cbb"
+    },
+    {
+      "title": "IntAI 2027",
+      "description": "WikiCFP listing. Jun 13, 2027 - Jun 17, 2027",
+      "venue": "",
+      "deadline": "The Second International Conference on Integration of Digital and AI-related Technologies",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203600&amp;copyownerid=193627",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "05d0d6a096db"
     },
     {
       "title": "Cyberfare State and Digital Governance 2026",
@@ -407,36 +422,6 @@
       "id": "8dc2e1a2832e"
     },
     {
-      "title": "ICELA 2026",
-      "description": "WikiCFP listing. Nov 27, 2026 - Nov 29, 2026",
-      "venue": "",
-      "deadline": "2026 6th International Conference on Education, Language and Art",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203365&amp;copyownerid=163220",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "38dd0228e86e"
-    },
-    {
-      "title": "DMCIS 2026",
-      "description": "WikiCFP listing. Oct 23, 2026 - Oct 25, 2026",
-      "venue": "",
-      "deadline": "IEEE 2026 3rd International Conference on Digital Media, Communication and Information Systems",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200196&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "4215dbaf4261"
-    },
-    {
       "title": "Post-digital Democracies 2026",
       "description": "WikiCFP listing. N/A",
       "venue": "",
@@ -452,11 +437,11 @@
       "id": "a506f152b627"
     },
     {
-      "title": "DPPR 2026",
-      "description": "WikiCFP listing. Nov 27, 2026 - Nov 28, 2026",
+      "title": "PCA, Comm/Digital Culture 2027",
+      "description": "WikiCFP listing. Mar 24, 2027 - Mar 27, 2027",
       "venue": "",
-      "deadline": "16th International Conference on Digital Image Processing and Pattern Recognition",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192674&amp;copyownerid=46167",
+      "deadline": "PCA, Comm/Digital Culture 2027: Revolt and Revise",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203693&amp;copyownerid=200706",
       "topics": [
         "general"
       ],
@@ -464,97 +449,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "b1676a925150"
-    },
-    {
-      "title": "DILSCM 2026",
-      "description": "WikiCFP listing. Nov 6, 2026 - Nov 8, 2026",
-      "venue": "",
-      "deadline": "2026 8th International Academic Conference on Digital and Intelligent Transportation and Logistics Supply Chain Management",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202973&amp;copyownerid=163220",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "98bdb865c927"
-    },
-    {
-      "title": "DSInS 2026",
-      "description": "WikiCFP listing. Nov 13, 2026 - Nov 15, 2026",
-      "venue": "",
-      "deadline": "2026 6th International Conference on Digital Society and Intelligent Systems",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203165&amp;copyownerid=163220",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "e36d990ff295"
-    },
-    {
-      "title": "SPIE ADIP 2026",
-      "description": "WikiCFP listing. Dec 18, 2026 - Dec 21, 2026",
-      "venue": "",
-      "deadline": "SPIE--2026 8th Asia Digital Image Processing Conference (ADIP 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192222&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "88f722c71693"
-    },
-    {
-      "title": "ADIP 2026",
-      "description": "WikiCFP listing. Dec 18, 2026 - Dec 21, 2026",
-      "venue": "",
-      "deadline": "SPIE--2026 8th Asia Digital Image Processing Conference (ADIP 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192223&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "a04b55d6eb44"
-    },
-    {
-      "title": "ICDIPV 2026",
-      "description": "WikiCFP listing. Oct 24, 2026 - Oct 25, 2026",
-      "venue": "",
-      "deadline": "15th International Conference on Digital Image Processing and Vision",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191992&amp;copyownerid=46167",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "79dd5c5dd4d0"
-    },
-    {
-      "title": "ICDIC 2026",
-      "description": "WikiCFP listing. Oct 30, 2026 - Nov 1, 2026",
-      "venue": "",
-      "deadline": "2026 International Conference on Digital Intelligence and Cybersecurity",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190960&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "bb031a665483"
+      "id": "506c6751cca9"
     },
     {
       "title": "Digital Culture & Society 2026",
@@ -722,6 +617,21 @@
       "id": "2836a51d5f8a"
     },
     {
+      "title": "NAACL 2027",
+      "description": "WikiCFP listing. Jun 1, 2027 - Jun 5, 2027",
+      "venue": "",
+      "deadline": "The 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202808&amp;copyownerid=320",
+      "topics": [
+        "digital"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "969844be0ac7"
+    },
+    {
       "title": "Call for Book Chapters 2026",
       "description": "WikiCFP listing. Jun 1, 2026 - Jun 30, 2026",
       "venue": "",
@@ -767,64 +677,34 @@
       "id": "f280cf7315ef"
     },
     {
-      "title": "DEMA 2026",
+      "title": "IJGTT 2026",
       "description": "WikiCFP listing. N/A",
       "venue": "",
-      "deadline": "DEMONSTRATIO MATHEMATICA",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192092&amp;copyownerid=176159",
+      "deadline": "International Journal of Game Theory and Technology",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199977&amp;copyownerid=33993",
       "topics": [
         "general"
       ],
-      "pubType": "unknown",
+      "pubType": "journal",
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "fa61e7427581"
+      "id": "4039249cfd30"
     },
     {
-      "title": "CORAJ 2026",
-      "description": "WikiCFP listing. Nov 14, 2026 - Nov 15, 2026",
+      "title": "IJCCMS 2026",
+      "description": "WikiCFP listing. N/A",
       "venue": "",
-      "deadline": "4th International Conference on Operations Research and Applications",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199892&amp;copyownerid=33993",
+      "deadline": "International Journal of Chaos, Control, Modelling and Simulation",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=193037&amp;copyownerid=33993",
       "topics": [
         "general"
       ],
-      "pubType": "unknown",
+      "pubType": "journal",
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "4705f10833ab"
-    },
-    {
-      "title": "SCM 2026",
-      "description": "WikiCFP listing. Dec 30, 2026 - Dec 31, 2026",
-      "venue": "",
-      "deadline": "9th International Conference on Soft Computing, Control and Mathematics",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191360&amp;copyownerid=46167",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "d16c8bf7a1bb"
-    },
-    {
-      "title": "ITEORY 2026",
-      "description": "WikiCFP listing. Nov 14, 2026 - Nov 15, 2026",
-      "venue": "",
-      "deadline": "4th International Conference on Information Theory and Machine Learning",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195487&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "4d5cbbbd40c8"
+      "id": "d7ccf4facf4d"
     },
     {
       "title": "french",
@@ -887,11 +767,11 @@
       "id": "5641b1121c44"
     },
     {
-      "title": "ACM CSAI 2026",
-      "description": "WikiCFP listing. Dec 18, 2026 - Dec 21, 2026",
+      "title": "I4CS 2027",
+      "description": "WikiCFP listing. Jun 14, 2027 - Jun 14, 2027",
       "venue": "",
-      "deadline": "ACM--2026 The 10th International Conference on Computer Science and Artificial Intelligence (CSAI 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192800&amp;copyownerid=13881",
+      "deadline": "27th International Conference on Innovations for Community Services 2027",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203659&amp;copyownerid=200718",
       "topics": [
         "general"
       ],
@@ -899,284 +779,14 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "60b18ba8d65f"
+      "id": "f20d13e50575"
     },
     {
-      "title": "APIT 2027",
-      "description": "WikiCFP listing. Jan 22, 2027 - Jan 24, 2027",
-      "venue": "",
-      "deadline": "ACM--2027 9th Asia Pacific Information Technology Conference (APIT 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194351&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "17891c68ec14"
-    },
-    {
-      "title": "CSAI 2026",
-      "description": "WikiCFP listing. Dec 18, 2026 - Dec 21, 2026",
-      "venue": "",
-      "deadline": "ACM--2026 The 10th International Conference on Computer Science and Artificial Intelligence (CSAI 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192801&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "dd049aeae4da"
-    },
-    {
-      "title": "PAKDD 2027",
-      "description": "WikiCFP listing. Jun 29, 2027 - Jul 2, 2027",
-      "venue": "",
-      "deadline": "31st Pacific-Asia Conference on Knowledge Discovery and Data Mining",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203483&amp;copyownerid=200700",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "919ca10da4e2"
-    },
-    {
-      "title": "Springer ICEES 2027",
-      "description": "WikiCFP listing. Mar 19, 2027 - Mar 21, 2027",
-      "venue": "",
-      "deadline": "Springer--2027 The 11th International Conference on Energy and Environmental Science (ICEES 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201233&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "f5284226fb1b"
-    },
-    {
-      "title": "ICEES 2027",
-      "description": "WikiCFP listing. Mar 19, 2027 - Mar 21, 2027",
-      "venue": "",
-      "deadline": "Springer--2027 The 11th International Conference on Energy and Environmental Science (ICEES 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201234&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "38ef0f58b95a"
-    },
-    {
-      "title": "ICNMS 2027",
-      "description": "WikiCFP listing. Jan 20, 2027 - Jan 23, 2027",
-      "venue": "",
-      "deadline": "2027 15th International Conference on Nano and Materials Science (ICNMS 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194518&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "13f20172b6d7"
-    },
-    {
-      "title": "IEEE ICMSS 2027",
-      "description": "WikiCFP listing. Mar 19, 2027 - Mar 21, 2027",
-      "venue": "",
-      "deadline": "IEEE--2027 the 11th International Conference on Management Engineering, Software Engineering and Service Sciences (ICMSS 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200258&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "1366fdf819fb"
-    },
-    {
-      "title": "CEI 2026",
-      "description": "WikiCFP listing. Nov 20, 2026 - Nov 22, 2026",
-      "venue": "",
-      "deadline": "IEEE 2026 6th International Conference on Computer Science, Electronic Information Engineering and Intelligent Control Technology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202993&amp;copyownerid=163220",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "34d86034bfe1"
-    },
-    {
-      "title": "AIMDS 2026",
-      "description": "WikiCFP listing. Dec 30, 2026 - Dec 31, 2026",
-      "venue": "",
-      "deadline": "3rd International Conference on AI, Machine Learning and Data Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191480&amp;copyownerid=46167",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "104abeafab9d"
-    },
-    {
-      "title": "MMLDS 2026",
-      "description": "WikiCFP listing. Oct 30, 2026 - Nov 1, 2026",
-      "venue": "",
-      "deadline": "2026 International Conference on Multimodality, Machine Learning and Data Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190543&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "704473985a04"
-    },
-    {
-      "title": "CSITAI 2026",
-      "description": "WikiCFP listing. Nov 14, 2026 - Nov 15, 2026",
-      "venue": "",
-      "deadline": "4th International Conference on Computer Science, Information Technology & AI",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201167&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "13da07e8e09e"
-    },
-    {
-      "title": "ISTECH 2026",
-      "description": "WikiCFP listing. Nov 14, 2026 - Nov 15, 2026",
-      "venue": "",
-      "deadline": "4th International Conference on Information Science and Techniques",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195438&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "6bb1cb853b9a"
-    },
-    {
-      "title": "DSA 2026",
-      "description": "WikiCFP listing. Nov 27, 2026 - Nov 28, 2026",
-      "venue": "",
-      "deadline": "7th International Conference on Data Science and Applications",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195439&amp;copyownerid=46167",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "29235fe8a9a5"
-    },
-    {
-      "title": "ICAIT 2026",
-      "description": "WikiCFP listing. Oct 24, 2026 - Oct 25, 2026",
-      "venue": "",
-      "deadline": "15th International Conference on Advanced Computer Science and Information Technology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203478&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "6f115b6f886f"
-    },
-    {
-      "title": "SEAA 2026",
-      "description": "WikiCFP listing. Oct 30, 2026 - Nov 1, 2026",
-      "venue": "",
-      "deadline": "2026 5th International Conference on Science Education and Art Appreciation",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194648&amp;copyownerid=163220",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "68bdcd3c27a1"
-    },
-    {
-      "title": "CCSIT 2026",
-      "description": "WikiCFP listing. Nov 21, 2026 - Nov 22, 2026",
-      "venue": "",
-      "deadline": "16th International Conference on Computer Science and Information Technology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203625&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "496b02989fb3"
-    },
-    {
-      "title": "ICPHDS 2026",
-      "description": "WikiCFP listing. Nov 20, 2026 - Nov 22, 2026",
-      "venue": "",
-      "deadline": "2026 5th International Conference on Public Health and Data Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203253&amp;copyownerid=163220",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "aa352625feb7"
-    },
-    {
-      "title": "CCSEAI 2026",
-      "description": "WikiCFP listing. Dec 30, 2026 - Dec 31, 2026",
-      "venue": "",
-      "deadline": "3rd International Conference on Computer Science, Engineering and AI",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191506&amp;copyownerid=46167",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "7016e8bd07c5"
-    },
-    {
-      "title": "IJCSES 2026",
+      "title": "IJCSEA 2026",
       "description": "WikiCFP listing. N/A",
       "venue": "",
-      "deadline": "International Journal of Computer Science and Engineering Survey",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194798&amp;copyownerid=33993",
+      "deadline": "International Journal of Computer Science, Engineering and Applications",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191359&amp;copyownerid=46167",
       "topics": [
         "general"
       ],
@@ -1184,14 +794,59 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "300e0be66c01"
+      "id": "ddcd579f9035"
     },
     {
-      "title": "IJCSIT 2026",
+      "title": "MSIE 2027",
+      "description": "WikiCFP listing. Apr 28, 2027 - Apr 30, 2027",
+      "venue": "",
+      "deadline": "2027 9th International Conference on Management Science and Industrial Engineering (MSIE 2027)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203181&amp;copyownerid=13881",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "adaa9e5b5dc9"
+    },
+    {
+      "title": "MSIE--EI 2027",
+      "description": "WikiCFP listing. Apr 28, 2027 - Apr 30, 2027",
+      "venue": "",
+      "deadline": "2027 9th International Conference on Management Science and Industrial Engineering (MSIE 2027)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203182&amp;copyownerid=13881",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "7e61e5c262e1"
+    },
+    {
+      "title": "ACIE--EI 2027",
+      "description": "WikiCFP listing. Apr 2, 2027 - Apr 4, 2027",
+      "venue": "",
+      "deadline": "2027 The 7th Asia Conference on Information Engineering (ACIE 2027)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194545&amp;copyownerid=13881",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "56d7fc4ae758"
+    },
+    {
+      "title": "MLAIJ 2026",
       "description": "WikiCFP listing. N/A",
       "venue": "",
-      "deadline": "International Journal of Computer Science and Information Technology - H-index 60",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192075&amp;copyownerid=33993",
+      "deadline": "Machine Learning and Applications: An International Journal",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199941&amp;copyownerid=33993",
       "topics": [
         "general"
       ],
@@ -1199,14 +854,14 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "e7e5d46785ea"
+      "id": "7ab9414fec66"
     },
     {
-      "title": "CSTY 2026",
-      "description": "WikiCFP listing. Dec 26, 2026 - Dec 27, 2026",
+      "title": "Cancer Science 2026",
+      "description": "WikiCFP listing. Nov 23, 2026 - Nov 24, 2026",
       "venue": "",
-      "deadline": "12th International Conference on Computer Science and Information Technology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192130&amp;copyownerid=46167",
+      "deadline": "8th World Congress on Cancer Research and Oncology",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192990&amp;copyownerid=197694",
       "topics": [
         "general"
       ],
@@ -1214,104 +869,29 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "b1f053b94c9b"
+      "id": "36b65474f9c7"
     },
     {
-      "title": "MAT 2026",
-      "description": "WikiCFP listing. Dec 30, 2026 - Dec 31, 2026",
-      "venue": "",
-      "deadline": "12th International Conference of Advances in Materials Science and Engineering",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195331&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "3067ff3faa02"
-    },
-    {
-      "title": "ISCIPT 2026",
-      "description": "WikiCFP listing. Nov 13, 2026 - Nov 15, 2026",
-      "venue": "",
-      "deadline": "IEEE 2026 11th International Conference on Computer and Information Processing Technology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201130&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "4d88ba869160"
-    },
-    {
-      "title": "NLCA 2026",
-      "description": "WikiCFP listing. Oct 24, 2026 - Oct 25, 2026",
-      "venue": "",
-      "deadline": "7th International Conference on Natural Language Computing Advances",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191401&amp;copyownerid=46167",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "1db0c06289fc"
-    },
-    {
-      "title": "ICMSSE 2026",
-      "description": "WikiCFP listing. Oct 23, 2026 - Oct 25, 2026",
-      "venue": "",
-      "deadline": "2026 6th International Conference on Management Science and Software Engineering",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202498&amp;copyownerid=163220",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "75b8ffbeba13"
-    },
-    {
-      "title": "IJCSITY 2026",
+      "title": "IJSEA 2026",
       "description": "WikiCFP listing. N/A",
       "venue": "",
-      "deadline": "International Journal of Computational Science and Information Technology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191647&amp;copyownerid=46167",
+      "deadline": "International Journal of Software Engineering & Applications - ERA Indexed, H Index 36",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194120&amp;copyownerid=33993",
       "topics": [
-        "digital"
+        "general"
       ],
       "pubType": "journal",
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "824a5fc38b30"
+      "id": "047a5d983508"
     },
     {
-      "title": "ICACS 2027",
-      "description": "WikiCFP listing. Feb 2, 2027 - Feb 3, 2027",
+      "title": "ICICIP 2027",
+      "description": "WikiCFP listing. Feb 8, 2027 - Feb 14, 2027",
       "venue": "",
-      "deadline": "8th International Conference on Advancements in Computational Sciences",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202798&amp;copyownerid=176336",
-      "topics": [
-        "digital"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "640fa4ae1105"
-    },
-    {
-      "title": "MaVaS 2026",
-      "description": "WikiCFP listing. Dec 26, 2026 - Dec 27, 2026",
-      "venue": "",
-      "deadline": "12th International Conference of Managing Value and Supply Chains",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192273&amp;copyownerid=46167",
+      "deadline": "15th International Conference on Intelligent Control and Information Processing",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203242&amp;copyownerid=196967",
       "topics": [
         "general"
       ],
@@ -1319,7 +899,97 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "98c146899392"
+      "id": "648335d7c78a"
+    },
+    {
+      "title": "MODELSWARD 2027",
+      "description": "WikiCFP listing. Feb 19, 2027 - Feb 21, 2027",
+      "venue": "",
+      "deadline": "15th International Conference on Model-Based Software and Systems Engineering",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200098&amp;copyownerid=193627",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "73bd0f67b477"
+    },
+    {
+      "title": "IJDKP 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Data Mining & Knowledge Management Process",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199584&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "4d1bccac37c6"
+    },
+    {
+      "title": "IJAIA 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "International Journal of Artificial Intelligence & Applications - H Index - 41",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191849&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "f4c415fa2073"
+    },
+    {
+      "title": "Science & Religion Forum 2026",
+      "description": "WikiCFP listing. Sep 1, 2026 - Sep 30, 2026",
+      "venue": "",
+      "deadline": "Foundations in Science and Religion: Boundaries of Theory & Practice",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195158&amp;copyownerid=186400",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "1069dd2e2dee"
+    },
+    {
+      "title": "Poultry Science 2026",
+      "description": "WikiCFP listing. Aug 10, 2026 - Aug 14, 2026",
+      "venue": "",
+      "deadline": "Poultry Science, Management, and Production Conference",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194808&amp;copyownerid=198110",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "b265f871bb94"
+    },
+    {
+      "title": "Research Handbook on Decision Science 2026",
+      "description": "WikiCFP listing. Aug 31, 2025 - Aug 31, 2026",
+      "venue": "",
+      "deadline": "Call for Book Chapters: Research Handbook on Decision Science",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189673&amp;copyownerid=40942",
+      "topics": [
+        "general"
+      ],
+      "pubType": "chapter",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "99aea99743fe"
     },
     {
       "title": "call",
