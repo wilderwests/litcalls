@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T12:05:02.265222+00:00",
-  "total": 113,
+  "last_updated": "2026-10-17T11:21:16.800839+00:00",
+  "total": 108,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -107,21 +107,6 @@
       "id": "ccc434ad2a17"
     },
     {
-      "title": "BioeconIberoAmerica 2027",
-      "description": "WikiCFP listing. Sep 15, 2026 - Dec 15, 2026",
-      "venue": "",
-      "deadline": "Call for Chapter Proposals: Circular Bioeconomy in Ibero-America: Strategies, Technologies, and Sustainable Value Creation",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202488&amp;copyownerid=199825",
-      "topics": [
-        "general"
-      ],
-      "pubType": "chapter",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "e8bb1f456eac"
-    },
-    {
       "title": "2026 SNUAC Conference on Asian Studies 2026",
       "description": "WikiCFP listing. Oct 26, 2026 - Oct 29, 2026",
       "venue": "",
@@ -180,21 +165,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "8062b9e88cf2"
-    },
-    {
-      "title": "ICLLA 2027",
-      "description": "WikiCFP listing. Jun 16, 2027 - Jun 18, 2027",
-      "venue": "",
-      "deadline": "2027 14th International Conference on Linguistics, Literature and Arts (ICLLA 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203766&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "949cb060a878"
     },
     {
       "title": "CFP Literature - Wine 2027",
@@ -390,21 +360,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "8dc2e1a2832e"
-    },
-    {
-      "title": "CIETIA 2027",
-      "description": "WikiCFP listing. Apr 14, 2027 - Apr 16, 2027",
-      "venue": "",
-      "deadline": "1st International Conference on Education, Technologies and Artificial Intelligence",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203757&amp;copyownerid=200669",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "b3b1461a0b83"
     },
     {
       "title": "PCA, Comm/Digital Culture 2027",
@@ -707,36 +662,6 @@
       "id": "5641b1121c44"
     },
     {
-      "title": "ICTCE 2027",
-      "description": "WikiCFP listing. Jul 31, 2027 - Aug 2, 2027",
-      "venue": "",
-      "deadline": "2027 The 8th International Conference on Telecommunications and Communication Engineering (ICTCE 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203768&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "62bbc6d0dc57"
-    },
-    {
-      "title": "ICESS 2027",
-      "description": "WikiCFP listing. Jan 14, 2027 - Jan 16, 2027",
-      "venue": "",
-      "deadline": "2027 2nd International Conference on Environmental Science and Sustainability (ICESS 2027)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194999&amp;copyownerid=13881",
-      "topics": [
-        "ecocriticism"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "cfb0072552b2"
-    },
-    {
       "title": "Science & Religion Forum 2026",
       "description": "WikiCFP listing. Sep 1, 2026 - Sep 30, 2026",
       "venue": "",
@@ -752,11 +677,11 @@
       "id": "1069dd2e2dee"
     },
     {
-      "title": "ICCFN 2026",
-      "description": "WikiCFP listing. Nov 25, 2026 - Nov 26, 2026",
+      "title": "SASIMI 2027",
+      "description": "WikiCFP listing. Mar 15, 2027 - Mar 16, 2027",
       "venue": "",
-      "deadline": "International Conference on Cybertechnology and Future Networks",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202820&amp;copyownerid=200091",
+      "deadline": "The 27th Workshop on Synthesis And System Integration of Mixed Information technologies",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201200&amp;copyownerid=165282",
       "topics": [
         "general"
       ],
@@ -764,7 +689,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "84212ed167bd"
+      "id": "38a95421496b"
     },
     {
       "title": "Cancer Science 2026",
