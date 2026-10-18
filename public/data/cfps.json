@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T11:21:16.800839+00:00",
-  "total": 108,
+  "last_updated": "2026-10-18T11:55:53.101787+00:00",
+  "total": 107,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -675,21 +675,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "1069dd2e2dee"
-    },
-    {
-      "title": "SASIMI 2027",
-      "description": "WikiCFP listing. Mar 15, 2027 - Mar 16, 2027",
-      "venue": "",
-      "deadline": "The 27th Workshop on Synthesis And System Integration of Mixed Information technologies",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201200&amp;copyownerid=165282",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "38a95421496b"
     },
     {
       "title": "Cancer Science 2026",
