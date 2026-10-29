@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T13:48:44.812695+00:00",
-  "total": 110,
+  "last_updated": "2026-10-29T13:55:45.621669+00:00",
+  "total": 114,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -105,21 +105,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "ccc434ad2a17"
-    },
-    {
-      "title": "NOMS_ES 2027",
-      "description": "WikiCFP listing. May 10, 2027 - May 14, 2027",
-      "venue": "",
-      "deadline": "IEEE/IFIP NOMS 2027 Experience Session",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203941&amp;copyownerid=182265",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "6fac48c8750e"
     },
     {
       "title": "2026 SNUAC Conference on Asian Studies 2026",
@@ -407,11 +392,11 @@
       "id": "a506f152b627"
     },
     {
-      "title": "CEII 2026",
-      "description": "WikiCFP listing. Dec 11, 2026 - Dec 13, 2026",
+      "title": "DILSCM 2026",
+      "description": "WikiCFP listing. Nov 6, 2026 - Nov 8, 2026",
       "venue": "",
-      "deadline": "The 9th Asia Conference on Cognitive Engineering and Intelligent Interaction",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202496&amp;copyownerid=194712",
+      "deadline": "2026 8th International Academic Conference on Digital and Intelligent Transportation and Logistics Supply Chain Management",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202973&amp;copyownerid=163220",
       "topics": [
         "general"
       ],
@@ -419,7 +404,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "c13ba8d295af"
+      "id": "98bdb865c927"
     },
     {
       "title": "Digital Culture & Society 2026",
@@ -632,6 +617,36 @@
       "id": "f280cf7315ef"
     },
     {
+      "title": "VISAPP 2027",
+      "description": "WikiCFP listing. Feb 26, 2027 - Feb 28, 2027",
+      "venue": "",
+      "deadline": "22nd International Conference on Computer Vision Theory and Applications",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200096&amp;copyownerid=45217",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "d8a5820e5227"
+    },
+    {
+      "title": "GRIVAPP 2027",
+      "description": "WikiCFP listing. Feb 26, 2027 - Feb 28, 2027",
+      "venue": "",
+      "deadline": "22nd International Conference on Computer Graphics, Interaction and Visualization Theory and Applications",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200100&amp;copyownerid=45217",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "f7941cfe68ce"
+    },
+    {
       "title": "french",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -692,6 +707,66 @@
       "id": "5641b1121c44"
     },
     {
+      "title": "ICCS 2027",
+      "description": "WikiCFP listing. Jul 12, 2027 - Jul 14, 2027",
+      "venue": "",
+      "deadline": "27th International Conference on Computational Science",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203964&amp;copyownerid=4772",
+      "topics": [
+        "digital"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "4917946b71bb"
+    },
+    {
+      "title": "ICETMS 2026",
+      "description": "WikiCFP listing. Dec 11, 2026 - Dec 13, 2026",
+      "venue": "",
+      "deadline": "2026 10th International Conference on Energy Technology and Materials Science",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203798&amp;copyownerid=182680",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "ba9043210bad"
+    },
+    {
+      "title": "CITCE 2026",
+      "description": "WikiCFP listing. Dec 11, 2026 - Dec 13, 2026",
+      "venue": "",
+      "deadline": "IEEE 2026 6th International Conference on Computer, Internet of Things and Control Engineering",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203800&amp;copyownerid=182680",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "10ff9084f20e"
+    },
+    {
+      "title": "MODELSWARD 2027",
+      "description": "WikiCFP listing. Feb 19, 2027 - Feb 21, 2027",
+      "venue": "",
+      "deadline": "15th International Conference on Model-Based Software and Systems Engineering",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200098&amp;copyownerid=45217",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "73bd0f67b477"
+    },
+    {
       "title": "Science & Religion Forum 2026",
       "description": "WikiCFP listing. Sep 1, 2026 - Sep 30, 2026",
       "venue": "",
@@ -750,21 +825,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "99aea99743fe"
-    },
-    {
-      "title": "KDD 2026",
-      "description": "WikiCFP listing. Aug 9, 2026 - Aug 13, 2026",
-      "venue": "",
-      "deadline": "32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190474&amp;copyownerid=692",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "3940fbb0f9b6"
     },
     {
       "title": "call",
