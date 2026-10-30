@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T13:55:45.621669+00:00",
-  "total": 114,
+  "last_updated": "2026-10-30T13:50:04.541711+00:00",
+  "total": 113,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -105,6 +105,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "ccc434ad2a17"
+    },
+    {
+      "title": "IJMVSC 2026",
+      "description": "WikiCFP listing. N/A",
+      "venue": "",
+      "deadline": "The International Journal of Managing Value and Supply Chains",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194196&amp;copyownerid=33993",
+      "topics": [
+        "general"
+      ],
+      "pubType": "journal",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "66b825cf716b"
     },
     {
       "title": "2026 SNUAC Conference on Asian Studies 2026",
@@ -392,11 +407,11 @@
       "id": "a506f152b627"
     },
     {
-      "title": "DILSCM 2026",
-      "description": "WikiCFP listing. Nov 6, 2026 - Nov 8, 2026",
+      "title": "IJNGN 2026",
+      "description": "WikiCFP listing. N/A",
       "venue": "",
-      "deadline": "2026 8th International Academic Conference on Digital and Intelligent Transportation and Logistics Supply Chain Management",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202973&amp;copyownerid=163220",
+      "deadline": "15th International Conference on Digital Image Processing and Vision",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191992&amp;copyownerid=46167",
       "topics": [
         "general"
       ],
@@ -404,7 +419,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "98bdb865c927"
+      "id": "b997bb80c148"
     },
     {
       "title": "Digital Culture & Society 2026",
@@ -617,34 +632,34 @@
       "id": "f280cf7315ef"
     },
     {
-      "title": "VISAPP 2027",
-      "description": "WikiCFP listing. Feb 26, 2027 - Feb 28, 2027",
+      "title": "IJGTT 2026",
+      "description": "WikiCFP listing. N/A",
       "venue": "",
-      "deadline": "22nd International Conference on Computer Vision Theory and Applications",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200096&amp;copyownerid=45217",
+      "deadline": "International Journal of Game Theory and Technology",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199977&amp;copyownerid=33993",
       "topics": [
         "general"
       ],
-      "pubType": "unknown",
+      "pubType": "journal",
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "d8a5820e5227"
+      "id": "4039249cfd30"
     },
     {
-      "title": "GRIVAPP 2027",
-      "description": "WikiCFP listing. Feb 26, 2027 - Feb 28, 2027",
+      "title": "IJCCMS 2026",
+      "description": "WikiCFP listing. N/A",
       "venue": "",
-      "deadline": "22nd International Conference on Computer Graphics, Interaction and Visualization Theory and Applications",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200100&amp;copyownerid=45217",
+      "deadline": "International Journal of Chaos, Control, Modelling and Simulation",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=193037&amp;copyownerid=33993",
       "topics": [
         "general"
       ],
-      "pubType": "unknown",
+      "pubType": "journal",
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "f7941cfe68ce"
+      "id": "d7ccf4facf4d"
     },
     {
       "title": "french",
@@ -711,7 +726,7 @@
       "description": "WikiCFP listing. Jul 12, 2027 - Jul 14, 2027",
       "venue": "",
       "deadline": "27th International Conference on Computational Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203964&amp;copyownerid=4772",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203964&amp;copyownerid=13149",
       "topics": [
         "digital"
       ],
@@ -722,49 +737,19 @@
       "id": "4917946b71bb"
     },
     {
-      "title": "ICETMS 2026",
-      "description": "WikiCFP listing. Dec 11, 2026 - Dec 13, 2026",
+      "title": "MLAIJ 2026",
+      "description": "WikiCFP listing. N/A",
       "venue": "",
-      "deadline": "2026 10th International Conference on Energy Technology and Materials Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203798&amp;copyownerid=182680",
+      "deadline": "Machine Learning and Applications: An International Journal",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199941&amp;copyownerid=33993",
       "topics": [
         "general"
       ],
-      "pubType": "unknown",
+      "pubType": "journal",
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "ba9043210bad"
-    },
-    {
-      "title": "CITCE 2026",
-      "description": "WikiCFP listing. Dec 11, 2026 - Dec 13, 2026",
-      "venue": "",
-      "deadline": "IEEE 2026 6th International Conference on Computer, Internet of Things and Control Engineering",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203800&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "10ff9084f20e"
-    },
-    {
-      "title": "MODELSWARD 2027",
-      "description": "WikiCFP listing. Feb 19, 2027 - Feb 21, 2027",
-      "venue": "",
-      "deadline": "15th International Conference on Model-Based Software and Systems Engineering",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200098&amp;copyownerid=45217",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "73bd0f67b477"
+      "id": "7ab9414fec66"
     },
     {
       "title": "Science & Religion Forum 2026",
