@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T13:16:43.161601+00:00",
-  "total": 110,
+  "last_updated": "2026-11-01T14:01:26.163429+00:00",
+  "total": 108,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -347,21 +347,6 @@
       "id": "e0e1d64fdac4"
     },
     {
-      "title": "JoNN 2026",
-      "description": "WikiCFP listing. N/A",
-      "venue": "",
-      "deadline": "Inaugural Issue of Journal of Niche NLP",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204085&amp;copyownerid=116977",
-      "topics": [
-        "general"
-      ],
-      "pubType": "journal",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "15edac47e66d"
-    },
-    {
       "title": "Cyberfare State and Digital Governance 2026",
       "description": "WikiCFP listing. Nov 18, 2026 - Nov 18, 2026",
       "venue": "",
@@ -497,11 +482,11 @@
       "id": "75d4e448011c"
     },
     {
-      "title": "XAI 2027",
-      "description": "WikiCFP listing. Jul 7, 2027 - Jul 9, 2027",
+      "title": "THE RISE OF ASIA 2027",
+      "description": "WikiCFP listing. Feb 17, 2027 - Feb 19, 2027",
       "venue": "",
-      "deadline": "The 5th World Conference on Explainable Artificial Intelligence",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204086&amp;copyownerid=195843",
+      "deadline": "THE RISE OF ASIA 100 YEARS AFTER LAI: Is the Imperialism Dying and a New World Order Emerging?",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195240&amp;copyownerid=104941",
       "topics": [
         "general"
       ],
@@ -509,7 +494,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "264b5bc4a7f8"
+      "id": "a133e1e399d4"
     },
     {
       "title": "World Quantum Festival 2026",
@@ -705,21 +690,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "1069dd2e2dee"
-    },
-    {
-      "title": "CSEITT 2026",
-      "description": "WikiCFP listing. Dec 29, 2026 - Dec 30, 2026",
-      "venue": "",
-      "deadline": "4th International Conference on Computer Science, Engineering and Information Technology Trends",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192128&amp;copyownerid=46167",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "b7afd853db20"
     },
     {
       "title": "Cancer Science 2026",
