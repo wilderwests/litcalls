@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T15:05:06.419997+00:00",
-  "total": 120,
+  "last_updated": "2026-11-14T13:56:11.827937+00:00",
+  "total": 114,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -497,21 +497,6 @@
       "id": "75d4e448011c"
     },
     {
-      "title": "WCSC 2027",
-      "description": "WikiCFP listing. Jan 8, 2027 - Jan 9, 2027",
-      "venue": "",
-      "deadline": "4th World Congress on Smart Computing",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191273&amp;copyownerid=195295",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "f5f39f2d058c"
-    },
-    {
       "title": "World Quantum Festival 2026",
       "description": "WikiCFP listing. Nov 17, 2026 - Nov 18, 2026",
       "venue": "",
@@ -632,36 +617,6 @@
       "id": "f280cf7315ef"
     },
     {
-      "title": "DeLTA 2027",
-      "description": "WikiCFP listing. Jul 19, 2027 - Jul 20, 2027",
-      "venue": "",
-      "deadline": "8th International Conference on Deep Learning Theory and Applications",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204207&amp;copyownerid=45217",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "df6e5f2746d4"
-    },
-    {
-      "title": "CTRQ 2027",
-      "description": "WikiCFP listing. Apr 18, 2027 - Apr 22, 2027",
-      "venue": "",
-      "deadline": "The Twentieth International Conference on Communication Theory, Reliability, and Quality of Service",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204125&amp;copyownerid=193627",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "01d7870f682e"
-    },
-    {
       "title": "french",
       "description": "WikiCFP listing. When",
       "venue": "",
@@ -720,51 +675,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "5641b1121c44"
-    },
-    {
-      "title": "ICSOFT 2027",
-      "description": "WikiCFP listing. Jul 19, 2027 - Jul 21, 2027",
-      "venue": "",
-      "deadline": "22nd International Conference on Software Technologies",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204206&amp;copyownerid=45217",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "61180a976d49"
-    },
-    {
-      "title": "DATA 2027",
-      "description": "WikiCFP listing. Jul 19, 2027 - Jul 21, 2027",
-      "venue": "",
-      "deadline": "16th International Conference on Data Science, Technology and Applications",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204204&amp;copyownerid=45217",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "eb5c92ca2457"
-    },
-    {
-      "title": "Transgender Ecology 2026",
-      "description": "WikiCFP listing. Nov 15, 2026 - Nov 15, 2026",
-      "venue": "",
-      "deadline": "Chapters for The Bloomsbury Handbook of Transecology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204210&amp;copyownerid=73684",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "8d4c428521de"
     },
     {
       "title": "Science & Religion Forum 2026",
